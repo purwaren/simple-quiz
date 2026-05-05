@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visual Explorer Quiz Portal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Quicksand', sans-serif;
+            background-color: #f0f9ff;
+        }
+        .font-fredoka {
+            font-family: 'Fredoka One', cursive;
+        }
+        .quiz-card {
+            transition: all 0.3s ease;
+        }
+        .quiz-card:hover {
+            transform: translateY(-5px);
+        }
+        .drag-item {
+            cursor: grab;
+        }
+        .drag-item:active {
+            cursor: grabbing;
+        }
+        .drop-zone {
+            min-height: 50px;
+            border: 2px dashed #cbd5e1;
+            transition: all 0.2s;
+        }
+        .drop-zone.over {
+            border-color: #3b82f6;
+            background-color: #eff6ff;
+        }
+        /* Custom animations */
+        @keyframes bounce-in {
+            0% { transform: scale(0.3); opacity: 0; }
+            50% { transform: scale(1.05); opacity: 1; }
+            70% { transform: scale(0.9); }
+            100% { transform: scale(1); }
+        }
+        .animate-bounce-in {
+            animation: bounce-in 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col items-center justify-center p-4">
+
+    <!-- Welcome Screen -->
+    <div id="welcome-screen" class="w-full max-w-md bg-white rounded-3xl shadow-xl p-8 text-center animate-bounce-in">
+        <h1 class="text-4xl font-fredoka text-blue-600 mb-2">Assalamu'alaikum!</h1>
+        <p class="text-slate-600 mb-8">Siap berpetualang mengenal Khalifah Utsman?</p>
+        
+        <div class="space-y-4 text-left">
+            <div>
+                <label class="block text-sm font-bold text-slate-700 mb-1">Nama Lengkap</label>
+                <input type="text" id="user-name" placeholder="Masukkan namamu..." 
+                    class="w-full px-4 py-3 rounded-xl border-2 border-slate-200 focus:border-blue-400 focus:outline-none transition">
+            </div>
+            <div>
+                <label class="block text-sm font-bold text-slate-700 mb-1">Kelas</label>
+                <input type="text" id="user-class" placeholder="Contoh: 3A" 
+                    class="w-full px-4 py-3 rounded-xl border-2 border-slate-200 focus:border-blue-400 focus:outline-none transition">
+            </div>
+        </div>
+
+        <button id="start-btn" class="w-full mt-8 bg-blue-500 hover:bg-blue-600 text-white font-fredoka text-xl py-4 rounded-2xl shadow-lg transition transform hover:scale-105">
+            MULAI PETUALANGAN!
+        </button>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quiz-screen" class="hidden w-full max-w-3xl bg-white rounded-3xl shadow-xl p-8">
+        <!-- Progress Bar -->
+        <div class="w-full bg-slate-100 h-4 rounded-full mb-8 overflow-hidden">
+            <div id="progress-bar" class="bg-blue-500 h-full transition-all duration-500" style="width: 0%"></div>
+        </div>
+
+        <div id="question-container">
+            <!-- Questions will be injected here -->
+        </div>
+
+        <div class="mt-8 flex justify-between items-center">
+            <span id="question-counter" class="text-slate-500 font-bold">Soal 1 dari 5</span>
+            <button id="next-btn" class="bg-green-500 hover:bg-green-600 text-white font-fredoka px-8 py-3 rounded-xl shadow-md transition disabled:opacity-50 disabled:cursor-not-allowed">
+                LANJUT
+            </button>
+        </div>
+    </div>
+
+    <!-- Result Screen -->
+    <div id="result-screen" class="hidden w-full max-w-2xl bg-white rounded-3xl shadow-xl p-10 text-center animate-bounce-in">
+        <div class="mb-6">
+            <span class="text-6xl">🏆</span>
+        </div>
+        <h2 class="text-3xl font-fredoka text-slate-800 mb-2">Luar Biasa, <span id="display-name" class="text-blue-600">Nama</span>!</h2>
+        <p class="text-slate-600 mb-8">Kamu telah menyelesaikan petualangan ini.</p>
+        
+        <div class="bg-blue-50 rounded-2xl p-6 mb-8 inline-block">
+            <p class="text-slate-500 uppercase tracking-widest text-sm font-bold">Skormu</p>
+            <p class="text-6xl font-fredoka text-blue-600"><span id="final-score">0</span><span class="text-2xl text-blue-300">/100</span></p>
+        </div>
+
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <button id="download-cert" class="bg-blue-500 hover:bg-blue-600 text-white font-fredoka px-8 py-4 rounded-2xl shadow-lg transition">
+                CETAK SERTIFIKAT 📜
+            </button>
+            <button onclick="location.reload()" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-fredoka px-8 py-4 rounded-2xl transition">
+                ULANGI
+            </button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

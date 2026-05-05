@@ -1,0 +1,51 @@
+{
+  "quiz_title": "Petualangan Khalifah Utsman bin Affan",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Apa julukan Utsman bin Affan karena menikahi dua putri Rasulullah?",
+      "options": ["Al-Amin", "Dzun Nurain", "Al-Faruq", "As-Siddiq"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "type": "drag-drop",
+      "question": "Tarik kata ke kotak yang tepat untuk melengkapi kalimat!",
+      "sentence": "Utsman bin Affan membeli sumur _______ untuk membantu umat Islam yang kehausan.",
+      "options": ["Raumah", "Zamzam", "Al-Kautsar"],
+      "answer": "Raumah"
+    },
+    {
+      "id": 3,
+      "type": "matching",
+      "question": "Pasangkan Jasa Utsman dengan deskripsi yang benar!",
+      "left": [
+        {"id": "L1", "text": "Mushaf Usmani"},
+        {"id": "L2", "text": "Ekspedisi Tabuk"}
+      ],
+      "right": [
+        {"id": "R1", "text": "Membukukan Al-Qur'an"},
+        {"id": "R2", "text": "Menyumbang 1000 Unta"}
+      ],
+      "pairs": {
+        "L1": "R1",
+        "L2": "R2"
+      }
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Utsman bin Affan adalah Khalifah ke-berapa?",
+      "options": ["Pertama", "Kedua", "Ketiga", "Keempat"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Sifat utama Utsman bin Affan yang sangat terkenal adalah...",
+      "options": ["Pemalu & Dermawan", "Pemarah & Pelit", "Pemberani & Kasar", "Sombong"],
+      "answer": 0
+    }
+  ]
+}
