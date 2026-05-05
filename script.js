@@ -197,7 +197,7 @@ function renderMatching(question) {
 
     question.left.forEach(item => {
         const el = document.createElement('button');
-        el.className = 'w-full flex flex-col items-center justify-center p-4 bg-slate-50 border-2 border-slate-100 rounded-xl transition font-bold text-sm md:text-base min-h-[140px] md:min-h-[180px] shadow-sm';
+        el.className = 'w-full flex flex-col items-center justify-center p-4 bg-slate-50 border-2 border-slate-100 rounded-xl transition font-bold text-3xl md:text-5xl min-h-[140px] md:min-h-[220px] shadow-sm';
         
         let contentHTML = '';
         if (item.image) {
@@ -206,7 +206,7 @@ function renderMatching(question) {
             // Placeholder div to maintain height if no image
             contentHTML += `<div class="h-24 md:h-32 hidden md:flex items-center justify-center mb-2"></div>`;
         }
-        if (item.text) contentHTML += `<span class="text-center line-clamp-2">${item.text}</span>`;
+        if (item.text) contentHTML += `<span class="text-center leading-snug">${item.text}</span>`;
         el.innerHTML = contentHTML;
 
         el.onclick = () => {
@@ -219,7 +219,7 @@ function renderMatching(question) {
 
     question.right.forEach(item => {
         const el = document.createElement('button');
-        el.className = 'w-full flex flex-col items-center justify-center relative p-4 bg-slate-50 border-2 border-slate-100 rounded-xl transition font-bold text-sm md:text-base min-h-[140px] md:min-h-[180px] overflow-hidden shadow-sm';
+        el.className = 'w-full flex flex-col items-center justify-center relative p-4 bg-slate-50 border-2 border-slate-100 rounded-xl transition font-bold text-xl md:text-3xl min-h-[140px] md:min-h-[220px] overflow-hidden shadow-sm';
         
         let contentHTML = '';
         if (item.image) {
@@ -228,7 +228,7 @@ function renderMatching(question) {
             // Placeholder div to maintain height if no image
             contentHTML += `<div class="h-24 md:h-32 hidden md:flex items-center justify-center mb-2"></div>`;
         }
-        if (item.text) contentHTML += `<span class="text-center z-10 relative line-clamp-2">${item.text}</span>`;
+        if (item.text) contentHTML += `<span class="text-center z-10 relative leading-tight">${item.text}</span>`;
         el.innerHTML = contentHTML;
 
         el.onclick = () => {
