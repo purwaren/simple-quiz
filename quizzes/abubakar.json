@@ -1,0 +1,27 @@
+{
+  "quiz_title": "Khalifah Abu Bakar as-Siddiq",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Apa gelar yang diberikan Rasulullah kepada Abu Bakar karena selalu membenarkannya?",
+      "options": ["Al-Faruq", "As-Siddiq", "Al-Amin", "Dzun Nurain"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "type": "drag-drop",
+      "question": "Sentuh jawaban di bawah, lalu sentuh kotak kosong untuk melengkapi kalimat!",
+      "sentence": "Abu Bakar menemani Rasulullah hijrah dan bersembunyi di Gua _______.",
+      "options": ["Hira", "Tsur", "Uhud"],
+      "answer": "Tsur"
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Abu Bakar as-Siddiq adalah Khalifah ke-berapa?",
+      "options": ["Pertama", "Kedua", "Ketiga", "Keempat"],
+      "answer": 0
+    }
+  ]
+}

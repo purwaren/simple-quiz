@@ -17,25 +17,29 @@
         .quiz-card {
             transition: all 0.3s ease;
         }
-        .quiz-card:hover {
-            transform: translateY(-5px);
-        }
-        .drag-item {
-            cursor: grab;
-        }
-        .drag-item:active {
-            cursor: grabbing;
+        .quiz-card:active {
+            transform: scale(0.95);
         }
         .drop-zone {
-            min-height: 50px;
-            border: 2px dashed #cbd5e1;
-            transition: all 0.2s;
+            min-height: 44px;
+            border: 2px dashed #3b82f6;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #f8fafc;
+            padding: 0 1rem;
+            border-radius: 0.75rem;
         }
-        .drop-zone.over {
-            border-color: #3b82f6;
+        .drop-zone.filled {
+            border: 2px solid #3b82f6;
             background-color: #eff6ff;
         }
-        /* Custom animations */
+        .selected-option {
+            border-color: #3b82f6 !important;
+            background-color: #eff6ff !important;
+            box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.2);
+        }
         @keyframes bounce-in {
             0% { transform: scale(0.3); opacity: 0; }
             50% { transform: scale(1.05); opacity: 1; }
@@ -49,10 +53,20 @@
 </head>
 <body class="min-h-screen flex flex-col items-center justify-center p-4">
 
+    <!-- Landing Page -->
+    <div id="landing-page" class="w-full max-w-4xl text-center">
+        <h1 class="text-4xl md:text-5xl font-fredoka text-blue-600 mb-4 animate-bounce-in">Pilih Petualanganmu! 🚀</h1>
+        <p class="text-slate-600 mb-12 text-lg">Pilih salah satu kuis di bawah ini untuk memulai petualangan seru.</p>
+        <div id="quiz-list" class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <!-- Quiz Tiles will be injected here -->
+        </div>
+    </div>
+
     <!-- Welcome Screen -->
-    <div id="welcome-screen" class="w-full max-w-md bg-white rounded-3xl shadow-xl p-8 text-center animate-bounce-in">
-        <h1 class="text-4xl font-fredoka text-blue-600 mb-2">Assalamu'alaikum!</h1>
-        <p class="text-slate-600 mb-8">Siap berpetualang mengenal Khalifah Utsman?</p>
+    <div id="welcome-screen" class="hidden w-full max-w-md bg-white rounded-3xl shadow-xl p-8 text-center animate-bounce-in">
+        <button id="back-to-landing" class="absolute top-4 left-4 text-slate-400 hover:text-blue-500">← Kembali</button>
+        <h1 id="selected-quiz-title" class="text-3xl font-fredoka text-blue-600 mb-2 leading-tight">Assalamu'alaikum!</h1>
+        <p class="text-slate-600 mb-8">Siap mengenal lebih dalam?</p>
         
         <div class="space-y-4 text-left">
             <div>
@@ -67,15 +81,15 @@
             </div>
         </div>
 
-        <button id="start-btn" class="w-full mt-8 bg-blue-500 hover:bg-blue-600 text-white font-fredoka text-xl py-4 rounded-2xl shadow-lg transition transform hover:scale-105">
-            MULAI PETUALANGAN!
+        <button id="start-btn" class="w-full mt-8 bg-blue-500 hover:bg-blue-600 text-white font-fredoka text-xl py-4 rounded-2xl shadow-lg transition transform hover:scale-105 active:scale-95">
+            MULAI SEKARANG!
         </button>
     </div>
 
     <!-- Quiz Screen -->
-    <div id="quiz-screen" class="hidden w-full max-w-3xl bg-white rounded-3xl shadow-xl p-8">
+    <div id="quiz-screen" class="hidden w-full max-w-3xl bg-white rounded-3xl shadow-xl p-6 md:p-10">
         <!-- Progress Bar -->
-        <div class="w-full bg-slate-100 h-4 rounded-full mb-8 overflow-hidden">
+        <div class="w-full bg-slate-100 h-3 rounded-full mb-8 overflow-hidden">
             <div id="progress-bar" class="bg-blue-500 h-full transition-all duration-500" style="width: 0%"></div>
         </div>
 
@@ -84,8 +98,8 @@
         </div>
 
         <div class="mt-8 flex justify-between items-center">
-            <span id="question-counter" class="text-slate-500 font-bold">Soal 1 dari 5</span>
-            <button id="next-btn" class="bg-green-500 hover:bg-green-600 text-white font-fredoka px-8 py-3 rounded-xl shadow-md transition disabled:opacity-50 disabled:cursor-not-allowed">
+            <span id="question-counter" class="text-slate-400 font-bold text-sm">Soal 1 dari 5</span>
+            <button id="next-btn" class="bg-green-500 hover:bg-green-600 text-white font-fredoka px-8 py-3 rounded-xl shadow-md transition disabled:opacity-50 disabled:cursor-not-allowed active:scale-95">
                 LANJUT
             </button>
         </div>
@@ -100,16 +114,16 @@
         <p class="text-slate-600 mb-8">Kamu telah menyelesaikan petualangan ini.</p>
         
         <div class="bg-blue-50 rounded-2xl p-6 mb-8 inline-block">
-            <p class="text-slate-500 uppercase tracking-widest text-sm font-bold">Skormu</p>
+            <p class="text-slate-500 uppercase tracking-widest text-xs font-bold mb-1">Skormu</p>
             <p class="text-6xl font-fredoka text-blue-600"><span id="final-score">0</span><span class="text-2xl text-blue-300">/100</span></p>
         </div>
 
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
-            <button id="download-cert" class="bg-blue-500 hover:bg-blue-600 text-white font-fredoka px-8 py-4 rounded-2xl shadow-lg transition">
+            <button id="download-cert" class="bg-blue-500 hover:bg-blue-600 text-white font-fredoka px-8 py-4 rounded-2xl shadow-lg transition active:scale-95">
                 CETAK SERTIFIKAT 📜
             </button>
-            <button onclick="location.reload()" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-fredoka px-8 py-4 rounded-2xl transition">
-                ULANGI
+            <button onclick="location.reload()" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-fredoka px-8 py-4 rounded-2xl transition active:scale-95">
+                MENU UTAMA
             </button>
         </div>
     </div>

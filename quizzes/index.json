@@ -1,0 +1,16 @@
+[
+  {
+    "id": "utsman",
+    "title": "Khalifah Utsman bin Affan",
+    "description": "Petualangan mengenal sahabat Nabi yang sangat dermawan, pemalu, dan pemilik julukan Dzun Nurain.",
+    "icon": "🕌",
+    "file": "quizzes/utsman.json"
+  },
+  {
+    "id": "abubakar",
+    "title": "Khalifah Abu Bakar as-Siddiq",
+    "description": "Kisah sahabat Nabi yang paling setia dan yang pertama membenarkan peristiwa Isra Mi'raj.",
+    "icon": "🐪",
+    "file": "quizzes/abubakar.json"
+  }
+]
