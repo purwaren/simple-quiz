@@ -197,11 +197,16 @@ function renderMatching(question) {
 
     question.left.forEach(item => {
         const el = document.createElement('button');
-        el.className = 'w-full flex flex-col items-center justify-center p-4 bg-slate-50 border-2 border-slate-100 rounded-xl transition font-bold text-sm md:text-base min-h-[80px]';
+        el.className = 'w-full flex flex-col items-center justify-center p-4 bg-slate-50 border-2 border-slate-100 rounded-xl transition font-bold text-sm md:text-base min-h-[140px] md:min-h-[180px] shadow-sm';
         
         let contentHTML = '';
-        if (item.image) contentHTML += `<img src="${item.image}" class="max-h-24 object-contain rounded mb-2" alt="Image">`;
-        if (item.text) contentHTML += `<span class="text-center">${item.text}</span>`;
+        if (item.image) {
+            contentHTML += `<div class="h-24 md:h-32 w-full flex items-center justify-center mb-2"><img src="${item.image}" class="max-h-full max-w-full object-contain rounded" alt="Image"></div>`;
+        } else {
+            // Placeholder div to maintain height if no image
+            contentHTML += `<div class="h-24 md:h-32 hidden md:flex items-center justify-center mb-2"></div>`;
+        }
+        if (item.text) contentHTML += `<span class="text-center line-clamp-2">${item.text}</span>`;
         el.innerHTML = contentHTML;
 
         el.onclick = () => {
@@ -214,11 +219,16 @@ function renderMatching(question) {
 
     question.right.forEach(item => {
         const el = document.createElement('button');
-        el.className = 'w-full flex flex-col items-center justify-center relative p-4 bg-slate-50 border-2 border-slate-100 rounded-xl transition font-bold text-sm md:text-base min-h-[80px] overflow-hidden';
+        el.className = 'w-full flex flex-col items-center justify-center relative p-4 bg-slate-50 border-2 border-slate-100 rounded-xl transition font-bold text-sm md:text-base min-h-[140px] md:min-h-[180px] overflow-hidden shadow-sm';
         
         let contentHTML = '';
-        if (item.image) contentHTML += `<img src="${item.image}" class="max-h-24 object-contain rounded mb-2" alt="Image">`;
-        if (item.text) contentHTML += `<span class="text-center z-10 relative">${item.text}</span>`;
+        if (item.image) {
+            contentHTML += `<div class="h-24 md:h-32 w-full flex items-center justify-center mb-2"><img src="${item.image}" class="max-h-full max-w-full object-contain rounded" alt="Image"></div>`;
+        } else {
+            // Placeholder div to maintain height if no image
+            contentHTML += `<div class="h-24 md:h-32 hidden md:flex items-center justify-center mb-2"></div>`;
+        }
+        if (item.text) contentHTML += `<span class="text-center z-10 relative line-clamp-2">${item.text}</span>`;
         el.innerHTML = contentHTML;
 
         el.onclick = () => {

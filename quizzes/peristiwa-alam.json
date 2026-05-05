@@ -4,43 +4,72 @@
     {
       "id": 1,
       "type": "matching",
-      "question": "Pasangkan kosakata Bahasa Arab berikut dengan gambar yang sesuai!",
+      "question": "Pasangkan kosakata dengan gambar yang sesuai!",
       "left": [
         { "id": "L1", "text": "نَهَارٌ" },
-        { "id": "L2", "text": "لَيْلَةٌ" },
+        { "id": "L2", "text": "لَيْلَةٌ" }
+      ],
+      "right": [
+        { "id": "R1", "image": "images/siang.avif", "text": "Siang hari" },
+        { "id": "R2", "image": "images/malam.avif", "text": "Malam hari" }
+      ],
+      "pairs": { "L1": "R1", "L2": "R2" }
+    },
+    {
+      "id": 2,
+      "type": "matching",
+      "question": "Pasangkan kosakata dengan gambar yang sesuai!",
+      "left": [
         { "id": "L3", "text": "صَافِيَةٌ" },
-        { "id": "L4", "text": "مَطَرٌ" },
+        { "id": "L4", "text": "مَطَرٌ" }
+      ],
+      "right": [
+        { "id": "R3", "image": "images/cerah.avif", "text": "Langit cerah" },
+        { "id": "R4", "image": "images/hujan.avif", "text": "Hujan deras" }
+      ],
+      "pairs": { "L3": "R3", "L4": "R4" }
+    },
+    {
+      "id": 3,
+      "type": "matching",
+      "question": "Pasangkan kosakata dengan gambar yang sesuai!",
+      "left": [
         { "id": "L5", "text": "حَرِيْقٌ" },
-        { "id": "L6", "text": "عَاصِفَةٌ" },
+        { "id": "L6", "text": "عَاصِفَةٌ" }
+      ],
+      "right": [
+        { "id": "R5", "image": "images/kebakaran.jpg", "text": "Kebakaran" },
+        { "id": "R6", "image": "images/tornado.webp", "text": "Badai/Tornado" }
+      ],
+      "pairs": { "L5": "R5", "L6": "R6" }
+    },
+    {
+      "id": 4,
+      "type": "matching",
+      "question": "Pasangkan kosakata dengan gambar yang sesuai!",
+      "left": [
         { "id": "L7", "text": "مَسَاءٌ" },
-        { "id": "L8", "text": "رِيَاحٌ" },
+        { "id": "L8", "text": "رِيَاحٌ" }
+      ],
+      "right": [
+        { "id": "R7", "image": "images/sunset.avif", "text": "Sore hari" },
+        { "id": "R8", "image": "images/angin.avif", "text": "Angin kencang" }
+      ],
+      "pairs": { "L7": "R7", "L8": "R8" }
+    },
+    {
+      "id": 5,
+      "type": "matching",
+      "question": "Pasangkan kosakata dengan gambar yang sesuai!",
+      "left": [
         { "id": "L9", "text": "فَيَضَانَاتٌ" },
         { "id": "L10", "text": "اِنْهِيَارٌ" }
       ],
       "right": [
-        { "id": "R1", "image": "images/siang.avif", "text": "Siang hari" },
-        { "id": "R2", "image": "images/malam.avif", "text": "Malam hari" },
-        { "id": "R3", "image": "images/cerah.avif", "text": "Langit cerah" },
-        { "id": "R4", "image": "images/hujan.avif", "text": "Hujan deras" },
-        { "id": "R5", "image": "images/kebakaran.jpg", "text": "Kebakaran" },
-        { "id": "R6", "image": "images/tornado.webp", "text": "Badai/Tornado" },
-        { "id": "R7", "image": "images/sunset.avif", "text": "Sore hari" },
-        { "id": "R8", "image": "images/angin.avif", "text": "Angin kencang" },
         { "id": "R9", "image": "images/banjir.jpeg", "text": "Banjir" },
         { "id": "R10", "image": "images/longsor.avif", "text": "Tanah longsor" }
       ],
-      "pairs": {
-        "L1": "R1",
-        "L2": "R2",
-        "L3": "R3",
-        "L4": "R4",
-        "L5": "R5",
-        "L6": "R6",
-        "L7": "R7",
-        "L8": "R8",
-        "L9": "R9",
-        "L10": "R10"
-      }
+      "pairs": { "L9": "R9", "L10": "R10" }
     }
   ]
 }
