@@ -1,32 +1,82 @@
 {
-  "quiz_title": "Petualangan Khalifah Utsman bin Affan",
+  "quiz_title": "Khalifah Utsman bin Affan (Lengkap)",
   "questions": [
     {
       "id": 1,
       "type": "multiple-choice",
-      "question": "Apa julukan Utsman bin Affan karena menikahi dua putri Rasulullah?",
+      "question": "Utsman bin Affan berasal dari keluarga atau kabilah apa?",
+      "options": ["Bani Umayyah", "Bani Hasyim", "Bani Makhzum", "Bani Tamim"],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "Siapa nama ayah dari Utsman bin Affan?",
+      "options": ["Affan bin Abi Al-Ash", "Abu Bakar", "Umar bin Khattab", "Abu Jahal"],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Apa julukan Utsman karena menikahi dua putri Rasulullah?",
       "options": ["Al-Amin", "Dzun Nurain", "Al-Faruq", "As-Siddiq"],
       "answer": 1
     },
     {
-      "id": 2,
+      "id": 4,
       "type": "drag-drop",
-      "question": "Tarik kata ke kotak yang tepat untuk melengkapi kalimat!",
-      "sentence": "Utsman bin Affan membeli sumur _______ untuk membantu umat Islam yang kehausan.",
+      "question": "Pilih jawaban di bawah untuk melengkapi kalimat!",
+      "sentence": "Utsman bin Affan adalah salah satu sahabat yang masuk Islam melalui ajakan _______.",
+      "options": ["Abu Bakar", "Umar bin Khattab", "Ali bin Abi Thalib"],
+      "answer": "Abu Bakar"
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Utsman bin Affan pernah ikut berhijrah demi membela Islam ke negeri...",
+      "options": ["Habasyah (Etiopia)", "Mesir", "Persia", "Yaman"],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "type": "drag-drop",
+      "question": "Sentuh jawaban untuk melengkapi jasa besar Utsman!",
+      "sentence": "Utsman membeli sumur _______ dari seorang Yahudi untuk diberikan kepada rakyat Madinah.",
       "options": ["Raumah", "Zamzam", "Al-Kautsar"],
       "answer": "Raumah"
     },
     {
-      "id": 3,
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "Utsman menyumbangkan 1000 ekor unta untuk tentara Islam dalam perang...",
+      "options": ["Perang Tabuk", "Perang Badar", "Perang Uhud", "Perang Khandak"],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Berapa lama Utsman bin Affan menjabat sebagai Khalifah?",
+      "options": ["2 Tahun", "10 Tahun", "12 Tahun", "15 Tahun"],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Utsman bin Affan diangkat menjadi Khalifah yang ke-berapa?",
+      "options": ["Pertama", "Kedua", "Ketiga", "Keempat"],
+      "answer": 2
+    },
+    {
+      "id": 10,
       "type": "matching",
-      "question": "Pasangkan Jasa Utsman dengan deskripsi yang benar!",
+      "question": "Pasangkan Jasa Utsman dengan kegiatannya! (Sentuh kiri lalu kanan)",
       "left": [
-        {"id": "L1", "text": "Mushaf Usmani"},
-        {"id": "L2", "text": "Ekspedisi Tabuk"}
+        {"id": "L1", "text": "Masjid Nabawi"},
+        {"id": "L2", "text": "Al-Qur'an"}
       ],
       "right": [
-        {"id": "R1", "text": "Membukukan Al-Qur'an"},
-        {"id": "R2", "text": "Menyumbang 1000 Unta"}
+        {"id": "R1", "text": "Diperluas bangunannya"},
+        {"id": "R2", "text": "Dibukukan (Mushaf)"}
       ],
       "pairs": {
         "L1": "R1",
@@ -34,17 +84,84 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "type": "multiple-choice",
-      "question": "Utsman bin Affan adalah Khalifah ke-berapa?",
-      "options": ["Pertama", "Kedua", "Ketiga", "Keempat"],
-      "answer": 2
+      "question": "Mengapa Utsman membukukan Al-Qur'an (Mushaf Usmani)?",
+      "options": ["Agar bacaannya sama", "Agar Al-Qur'an hilang", "Agar orang malas baca", "Agar buku jadi berat"],
+      "answer": 0
     },
     {
-      "id": 5,
+      "id": 12,
       "type": "multiple-choice",
-      "question": "Sifat utama Utsman bin Affan yang sangat terkenal adalah...",
-      "options": ["Pemalu & Dermawan", "Pemarah & Pelit", "Pemberani & Kasar", "Sombong"],
+      "question": "Siapa ketua tim yang ditunjuk Utsman untuk membukukan Al-Qur'an?",
+      "options": ["Zaid bin Tsabit", "Abu Hurairah", "Bilal bin Rabah", "Khalid bin Walid"],
+      "answer": 0
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "Sifat utama Utsman bin Affan yang sangat menonjol adalah...",
+      "options": ["Sangat Pemalu", "Sangat Pemarah", "Sangat Pelit", "Sangat Sombong"],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "type": "drag-drop",
+      "question": "Sentuh jawaban untuk melengkapi kalimat!",
+      "sentence": "Selain Mushaf Al-Qur'an, Utsman juga berjasa membentuk pasukan _______ pertama dalam Islam.",
+      "options": ["Laut", "Darat", "Udara"],
+      "answer": "Laut"
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "Pada masa akhir jabatannya, muncul fitnah dari orang-orang yang...",
+      "options": ["Mencintai Utsman", "Membenci Islam", "Ingin membantu Utsman", "Suka berbagi"],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Utsman bin Affan wafat karena dibunuh oleh para pemberontak saat sedang...",
+      "options": ["Membaca Al-Qur'an", "Makan siang", "Tidur nyenyak", "Berperang"],
+      "answer": 0
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "Apa nama kota tempat Utsman bin Affan dimakamkan?",
+      "options": ["Makkah", "Madinah (Baqi)", "Mesir", "Baghdad"],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "type": "matching",
+      "question": "Pasangkan tokoh berikut! (Sentuh kiri lalu kanan)",
+      "left": [
+        {"id": "L1", "text": "Ruqayyah"},
+        {"id": "L2", "text": "Ummu Kultsum"}
+      ],
+      "right": [
+        {"id": "R1", "text": "Putri Nabi (Istri 1)"},
+        {"id": "R2", "text": "Putri Nabi (Istri 2)"}
+      ],
+      "pairs": {
+        "L1": "R1",
+        "L2": "R2"
+      }
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "Kita meneladani Utsman agar menjadi anak yang...",
+      "options": ["Dermawan & Sholeh", "Nakal & Malas", "Sombong & Kaya", "Pelit & Pintar"],
+      "answer": 0
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "Setelah Utsman wafat, siapa yang menggantikannya menjadi Khalifah ke-4?",
+      "options": ["Ali bin Abi Thalib", "Abu Bakar", "Umar bin Khattab", "Muawiyah"],
       "answer": 0
     }
   ]
