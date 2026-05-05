@@ -197,8 +197,13 @@ function renderMatching(question) {
 
     question.left.forEach(item => {
         const el = document.createElement('button');
-        el.className = 'w-full text-left p-4 bg-slate-50 border-2 border-slate-100 rounded-xl transition font-bold text-sm md:text-base';
-        el.innerText = item.text;
+        el.className = 'w-full flex flex-col items-center justify-center p-4 bg-slate-50 border-2 border-slate-100 rounded-xl transition font-bold text-sm md:text-base min-h-[80px]';
+        
+        let contentHTML = '';
+        if (item.image) contentHTML += `<img src="${item.image}" class="max-h-24 object-contain rounded mb-2" alt="Image">`;
+        if (item.text) contentHTML += `<span class="text-center">${item.text}</span>`;
+        el.innerHTML = contentHTML;
+
         el.onclick = () => {
             selectedLeft = item.id;
             Array.from(leftCol.children).forEach(c => c.classList.remove('selected-option'));
@@ -209,13 +214,24 @@ function renderMatching(question) {
 
     question.right.forEach(item => {
         const el = document.createElement('button');
-        el.className = 'w-full text-left p-4 bg-slate-50 border-2 border-slate-100 rounded-xl transition font-bold text-sm md:text-base';
-        el.innerText = item.text;
+        el.className = 'w-full flex flex-col items-center justify-center relative p-4 bg-slate-50 border-2 border-slate-100 rounded-xl transition font-bold text-sm md:text-base min-h-[80px] overflow-hidden';
+        
+        let contentHTML = '';
+        if (item.image) contentHTML += `<img src="${item.image}" class="max-h-24 object-contain rounded mb-2" alt="Image">`;
+        if (item.text) contentHTML += `<span class="text-center z-10 relative">${item.text}</span>`;
+        el.innerHTML = contentHTML;
+
         el.onclick = () => {
             if (selectedLeft) {
                 matches[selectedLeft] = item.id;
                 el.classList.add('bg-green-100', 'border-green-500', 'text-green-700');
-                el.innerText = `✓ ${item.text}`;
+                
+                // Add Checkmark Overlay
+                const check = document.createElement('div');
+                check.innerHTML = '✓';
+                check.className = 'absolute top-1 right-2 text-green-600 font-black text-2xl z-20';
+                el.appendChild(check);
+                
                 el.disabled = true;
                 
                 if (Object.keys(matches).length === question.left.length) {
@@ -227,7 +243,7 @@ function renderMatching(question) {
                 Array.from(leftCol.children).forEach(c => {
                     if (c.classList.contains('selected-option')) {
                         c.classList.remove('selected-option');
-                        c.classList.add('bg-green-50', 'border-green-200', 'text-slate-400');
+                        c.classList.add('bg-green-50', 'border-green-200', 'text-slate-400', 'opacity-60');
                         c.disabled = true;
                     }
                 });

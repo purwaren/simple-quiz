@@ -1,0 +1,55 @@
+{
+  "quiz_title": "Judul Kuis Anda",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Tuliskan pertanyaan pilihan ganda di sini?",
+      "options": [
+        "Opsi A (Index 0)",
+        "Opsi B (Index 1)",
+        "Opsi C (Index 2)",
+        "Opsi D (Index 3)"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "type": "drag-drop",
+      "question": "Instruksi untuk melengkapi kalimat (Tap-to-Place)",
+      "sentence": "Tulis kalimat dengan tujuh garis bawah _______ untuk bagian yang kosong.",
+      "options": ["Jawaban Benar", "Pengecoh 1", "Pengecoh 2"],
+      "answer": "Jawaban Benar"
+    },
+    {
+      "id": 3,
+      "type": "matching",
+      "question": "Instruksi untuk menjodohkan (Mendukung Gambar & Teks)",
+      "left": [
+        {
+          "id": "L1", 
+          "image": "https://placehold.co/150x150/3b82f6/white?text=Gambar+1",
+          "text": "Item Kiri 1"
+        },
+        {
+          "id": "L2", 
+          "text": "Hanya Teks 2"
+        }
+      ],
+      "right": [
+        {
+          "id": "R1", 
+          "text": "Pasangan Kanan 1"
+        },
+        {
+          "id": "R2", 
+          "image": "https://placehold.co/150x150/10b981/white?text=Gambar+2"
+        }
+      ],
+      "pairs": {
+        "L1": "R1",
+        "L2": "R2"
+      }
+    }
+  ]
+}
