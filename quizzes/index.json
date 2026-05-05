@@ -12,5 +12,12 @@
     "description": "Kisah sahabat Nabi yang paling setia dan yang pertama membenarkan peristiwa Isra Mi'raj.",
     "icon": "🐪",
     "file": "quizzes/abubakar.json"
+  },
+  {
+    "id": "peristiwa-alam",
+    "title": "Kuis: Peristiwa Alam",
+    "description": "Belajar kosakata Bahasa Arab tentang berbagai peristiwa alam dan cuaca.",
+    "icon": "🌍",
+    "file": "quizzes/peristiwa-alam.json"
   }
 ]
