@@ -30,5 +30,13 @@
     "icon": "📝",
     "file": "quizzes/pai-sas-kelas3.json",
     "category": "Sumatif Trial"
+  },
+  {
+    "id": "pjok-sas-kelas3",
+    "title": "Latihan SAS PJOK Kelas 3",
+    "description": "40 soal pilihan ganda — mencakup Aktivitas Kebugaran Jasmani: kelenturan, koordinasi, kekuatan, dan daya tahan tubuh.",
+    "icon": "🏃",
+    "file": "quizzes/pjok-sas-kelas3.json",
+    "category": "Sumatif Trial"
   }
 ]
