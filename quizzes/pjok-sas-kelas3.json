@@ -1,0 +1,285 @@
+{
+  "quiz_title": "Latihan SAS PJOK Kelas 3",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Latihan duduk dan mencium lutut bermanfaat untuk melatih kelenturan otot...",
+      "options": ["Lengan dan bahu", "Punggung dan bagian belakang paha", "Perut dan dada", "Leher dan kepala"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "Posisi awal tubuh saat akan melakukan gerakan duduk dan mencium lutut adalah...",
+      "options": ["Berdiri tegak", "Tidur telentang", "Duduk selunjur", "Jongkok"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Gerakan melentingkan badan ke belakang dengan tumpuan kedua tangan dan kaki pada lantai disebut...",
+      "options": ["Sikap lilin", "Sikap kapal terbang", "Sikap kayang", "Sikap push up"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Sikap kayang sangat baik untuk melatih kelenturan otot...",
+      "options": ["Perut dan punggung", "Betis dan telapak kaki", "Jari tangan", "Leher"],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Pada saat melakukan duduk sikap lari gawang, bagaimana posisi kaki kita?",
+      "options": ["Kedua kaki ditekuk ke depan", "Satu kaki lurus ke depan, satu kaki ditekuk ke belakang", "Kedua kaki diluruskan ke samping", "Kedua kaki disilangkan"],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "Duduk sikap lari gawang bertujuan untuk melatih kelenturan persendian pada bagian...",
+      "options": ["Siku dan bahu", "Leher dan kepala", "Pangkal paha dan lutut", "Pergelangan tangan"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "Alat berbentuk lingkaran atau simpai yang dimainkan dengan cara diputar di sekitar perut disebut...",
+      "options": ["Tongkat", "Tali skipping", "Hulahoop", "Bola kasti"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Gerakan memutar hulahoop di pinggang berguna untuk melatih kelenturan...",
+      "options": ["Otot pinggang dan panggul", "Otot leher", "Otot lengan", "Otot betis"],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Apa tujuan utama kita melakukan latihan kelenturan secara rutin?",
+      "options": ["Agar bisa berlari paling cepat", "Agar otot tidak kaku dan mencegah cedera", "Agar tubuh menjadi gemuk", "Agar bisa mengangkat beban berat"],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Bagaimana cara melakukan latihan kelenturan yang benar agar tidak sakit?",
+      "options": ["Dilakukan dengan cepat dan kuat", "Dilakukan secara perlahan dan tidak dipaksakan", "Dilakukan sambil berlari", "Dilakukan setelah makan banyak"],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "Gerakan membuka dan menutup kaki yang dilakukan sambil menepuk tangan di atas kepala bermanfaat melatih...",
+      "options": ["Kekuatan jari tangan", "Koordinasi gerak tangan dan kaki", "Kelenturan leher", "Daya tahan paru-paru"],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "Saat kaki melompat terbuka lebar, posisi kedua tangan yang benar adalah...",
+      "options": ["Lurus di samping paha", "Disilangkan di depan dada", "Menepuk di atas kepala", "Memegang lutut"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "Pada latihan berjalan diselingi menyentuh tanah, kita menyentuh tanah pada setiap langkah kaki yang ke-...",
+      "options": ["Satu", "Dua", "Tiga", "Empat"],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "Latihan berjalan menyentuh tanah pada langkah ketiga melatih kerja sama antara...",
+      "options": ["Mata, tangan, dan langkah kaki", "Telinga dan hidung", "Leher dan perut", "Siku dan bahu"],
+      "answer": 0
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "Menendang bola ke depan yang dikombinasikan dengan mengayunkan lengan merupakan bentuk latihan...",
+      "options": ["Kekuatan", "Kelenturan", "Koordinasi", "Kecepatan"],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Ke mana arah pandangan mata saat kita berlatih berjalan lalu menyentuh tanah?",
+      "options": ["Ke atas langit", "Ke belakang", "Ke depan dan ke arah tangan yang menyentuh tanah", "Ke samping kiri"],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "Tujuan utama kita melatih gerakan kombinasi atau koordinasi adalah agar tubuh bergerak dengan...",
+      "options": ["Sangat cepat", "Harmonis dan seimbang", "Kaku", "Membutuhkan banyak tenaga"],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "Jika kita menendang dengan kaki kanan, posisi lengan yang baik agar tubuh tetap seimbang adalah...",
+      "options": ["Lengan kanan lurus ke depan", "Lengan kiri mengayun ke depan/samping", "Kedua tangan diletakkan di belakang kepala", "Kedua tangan dimasukkan ke saku"],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "Latihan koordinasi anggota tubuh sangat penting dalam kehidupan sehari-hari agar kita tidak mudah...",
+      "options": ["Jatuh atau tersandung", "Mengantuk", "Lapar", "Berkeringat"],
+      "answer": 0
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "Saat kaki ditutup rapat kembali pada gerakan tepuk tangan di atas kepala, posisi kedua tangan harus...",
+      "options": ["Tetap di atas kepala", "Menepuk lantai", "Kembali lurus di samping badan", "Merentang ke samping"],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "Gerakan mendorong tembok dengan kedua tangan lurus ke depan bermanfaat untuk melatih kekuatan otot...",
+      "options": ["Perut dan paha", "Bahu dan dada", "Leher dan punggung", "Jari kaki"],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "question": "Saat melakukan latihan saling mendorong bahu berpasangan, hal penting yang harus diperhatikan saat memilih teman adalah...",
+      "options": ["Memilih teman yang lebih kecil", "Memilih teman yang sangat besar", "Memilih teman yang berat badannya seimbang", "Memilih teman yang larinya cepat"],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "Permainan tarik tambang merupakan contoh latihan gerak menarik yang berguna melatih kekuatan otot...",
+      "options": ["Lengan, bahu, dan dada", "Leher", "Pergelangan kaki", "Lutut"],
+      "answer": 0
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "Bagaimana posisi tubuh yang benar saat melakukan permainan tarik tambang agar kuat menarik?",
+      "options": ["Condong ke depan", "Condong ke belakang", "Berdiri tegak lurus", "Membungkuk ke tanah"],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "Latihan saling menarik satu lengan berpasangan dilakukan dengan posisi saling...",
+      "options": ["Membelakangi", "Berhadapan", "Bersebelahan", "Menunduk"],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "Walaupun termasuk latihan otot batang tubuh, gerakan sit up sangat membutuhkan penyangga dan tarikan dari dada. Tujuan utama sit up adalah menguatkan...",
+      "options": ["Otot perut", "Otot betis", "Jari tangan", "Otot wajah"],
+      "answer": 0
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "Posisi awal badan saat akan melakukan gerakan push up adalah...",
+      "options": ["Telentang", "Miring", "Tengkurap", "Berdiri"],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "Pada gerakan push up, bagian tubuh mana yang bekerja paling keras untuk mengangkat dan menahan berat badan?",
+      "options": ["Kepala", "Kedua tangan dan lengan", "Pinggang", "Lutut"],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "Latihan bergantung pada palang tunggal lalu mengangkat badan ke atas disebut dengan gerakan...",
+      "options": ["Sit up", "Push up", "Pull up", "Back up"],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "Gerakan pull up sangat dianjurkan untuk meningkatkan kekuatan tubuh bagian...",
+      "options": ["Bawah (kaki dan paha)", "Tengah (perut dan pinggang)", "Atas (bahu, dada, dan lengan)", "Samping badan"],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "question": "Latihan daya tahan tubuh berfungsi agar tubuh kita tidak mudah merasa...",
+      "options": ["Lelah saat beraktivitas", "Lapar", "Haus", "Mengantuk"],
+      "answer": 0
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "question": "Gerakan yang dilakukan dengan cara jongkok, melempar kaki ke belakang, maju, lalu berdiri tegak secara berulang-ulang sering disebut...",
+      "options": ["Roll depan", "Jongkok berdiri (Squat thrust)", "Kayang", "Sikap lilin"],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "question": "Latihan jongkok berdiri yang dilakukan berulang kali sangat baik untuk melatih kekuatan otot...",
+      "options": ["Leher", "Jari tangan", "Tungkai atau kaki", "Wajah"],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "question": "Aktivitas berjalan namun dengan posisi kedua lutut ditekuk ke bawah disebut dengan...",
+      "options": ["Jalan jinjit", "Jalan cepat", "Jalan jongkok", "Lari estafet"],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "question": "Ke manakah arah pandangan mata saat kita melakukan lomba jalan jongkok dengan teman-teman?",
+      "options": ["Ke bawah melihat kaki", "Ke atas melihat langit", "Lurus ke depan", "Menoleh ke belakang"],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "question": "Latihan naik turun tangga tidak hanya menguatkan otot kaki, tetapi sangat baik untuk melatih daya tahan...",
+      "options": ["Jantung dan paru-paru", "Lambung", "Mata", "Telinga"],
+      "answer": 0
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "question": "Sikap yang paling penting saat melakukan latihan naik turun tangga adalah...",
+      "options": ["Membawa beban berat", "Dilakukan dengan sangat terburu-buru", "Berhati-hati agar tidak terpeleset", "Sambil menutup mata"],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "question": "Bermain lomba menggendong teman adalah aktivitas yang menyenangkan sekaligus melatih kekuatan dan...",
+      "options": ["Daya tahan tubuh", "Kelenturan punggung", "Kecepatan jari", "Pendengaran"],
+      "answer": 0
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "question": "Syarat utama saat memilih pasangan untuk latihan menggendong teman adalah...",
+      "options": ["Teman harus lebih tua", "Berat badan teman harus seimbang (sama besar)", "Teman harus lebih tinggi", "Teman harus bisa berlari cepat"],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "question": "Jika kita rajin melatih daya tahan tubuh, apa manfaat yang kita rasakan di sekolah?",
+      "options": ["Cepat merasa ngantuk saat belajar", "Sering minta izin ke UKS", "Dapat beraktivitas dan bermain lebih lama tanpa cepat lelah", "Menjadi malas berolahraga"],
+      "answer": 2
+    }
+  ]
+}
