@@ -4,20 +4,31 @@
     "title": "Khalifah Utsman bin Affan",
     "description": "Petualangan mengenal sahabat Nabi yang sangat dermawan, pemalu, dan pemilik julukan Dzun Nurain.",
     "icon": "🕌",
-    "file": "quizzes/utsman.json"
+    "file": "quizzes/utsman.json",
+    "category": "Eksplorasi"
   },
   {
     "id": "abubakar",
     "title": "Khalifah Abu Bakar as-Siddiq",
     "description": "Kisah sahabat Nabi yang paling setia dan yang pertama membenarkan peristiwa Isra Mi'raj.",
     "icon": "🐪",
-    "file": "quizzes/abubakar.json"
+    "file": "quizzes/abubakar.json",
+    "category": "Eksplorasi"
   },
   {
     "id": "peristiwa-alam",
     "title": "Kuis: Peristiwa Alam",
     "description": "Belajar kosakata Bahasa Arab tentang berbagai peristiwa alam dan cuaca.",
     "icon": "🌍",
-    "file": "quizzes/peristiwa-alam.json"
+    "file": "quizzes/peristiwa-alam.json",
+    "category": "Eksplorasi"
+  },
+  {
+    "id": "pai-sas-kelas3",
+    "title": "Latihan SAS PAI Kelas 3",
+    "description": "45 soal pilihan ganda — mencakup Kisah Nabi Ibrahim & Ismail, Isra Mikraj Nabi Muhammad, dan Khalifah Utsman bin Affan.",
+    "icon": "📝",
+    "file": "quizzes/pai-sas-kelas3.json",
+    "category": "Sumatif Trial"
   }
 ]

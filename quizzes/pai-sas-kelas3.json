@@ -1,0 +1,320 @@
+{
+  "quiz_title": "Latihan SAS PAI Kelas 3",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Nabi Ibrahim a.s. dilahirkan di sebuah wilayah yang saat ini dikenal dengan nama negara Irak. Pada zaman dahulu, wilayah tersebut bernama ....",
+      "options": ["Babilonia", "Makkah", "Palestina", "Mesir"],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "Raja yang kejam dan berkuasa pada masa Nabi Ibrahim a.s. adalah ....",
+      "options": ["Raja Firaun", "Raja Namrud", "Raja Abrahah", "Raja Jalut"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Ayah Nabi Ibrahim a.s. bernama ....",
+      "options": ["Abdullah", "Abu Thalib", "Azar", "Imran"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Pekerjaan ayah Nabi Ibrahim a.s. adalah seorang ....",
+      "options": ["Pedagang kain", "Penggembala domba", "Petani gandum", "Pembuat patung berhala"],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Alasan Nabi Ibrahim a.s. menolak menyembah berhala adalah karena ....",
+      "options": ["Patung tidak bisa berbuat apa-apa", "Patung harganya terlalu mahal", "Patung dibuat oleh ayahnya sendiri", "Patung dilarang oleh raja"],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "Saat mencari Tuhan, Nabi Ibrahim a.s. sempat melihat matahari. Alasan Nabi Ibrahim tidak meyakini matahari sebagai Tuhan adalah karena ....",
+      "options": ["Matahari terlalu panas", "Matahari tenggelam dan hilang", "Matahari menyilaukan mata", "Matahari ukurannya kecil"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "Hukuman apa yang diberikan Raja Namrud kepada Nabi Ibrahim a.s. karena menghancurkan berhala-berhala?",
+      "options": ["Diusir dari kota", "Dimasukkan ke dalam penjara bawah tanah", "Dibakar hidup-hidup", "Dilarang berdakwah"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Atas mukjizat dan pertolongan Allah Swt., apa yang terjadi pada api saat membakar Nabi Ibrahim a.s.?",
+      "options": ["Api langsung padam tertiup angin", "Api mengecil karena hujan deras", "Api membakar tali ikatannya saja", "Api berubah menjadi dingin"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Siapakah nama istri Nabi Ibrahim a.s. yang juga merupakan ibunda dari Nabi Ismail a.s.?",
+      "options": ["Siti Hajar", "Siti Khadijah", "Siti Aisyah", "Siti Aminah"],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Di manakah Nabi Ibrahim a.s. meninggalkan Siti Hajar dan bayi Ismail atas perintah Allah Swt.?",
+      "options": ["Di tengah hutan yang rimbun", "Di lembah Makkah yang gersang", "Di tepian sungai Nil", "Di sebuah gua di bukit Sinai"],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "Siti Hajar berlari mencari air dari Bukit Safa ke Bukit Marwah. Peristiwa ini sekarang menjadi salah satu rukun haji yang disebut ....",
+      "options": ["Tawaf", "Wukuf", "Sa'i", "Tahallul"],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "Berapa kali Siti Hajar berlari bolak-balik antara Bukit Safa dan Bukit Marwah?",
+      "options": ["3 kali", "5 kali", "7 kali", "9 kali"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "Mata air yang memancar dari dekat kaki bayi Ismail a.s. dikenal dengan nama air ....",
+      "options": ["Zamzam", "Kautsar", "Salsabila", "Tasnim"],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "Bangunan suci berbentuk kubus di Makkah yang dibangun bersama oleh Nabi Ibrahim a.s. dan Nabi Ismail a.s. adalah ....",
+      "options": ["Masjid Nabawi", "Ka'bah", "Masjidil Aqsha", "Baitul Maqdis"],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "Tempat Nabi Ibrahim a.s. berpijak saat menyusun batu untuk membangun Ka'bah disebut ....",
+      "options": ["Hijir Ismail", "Hajar Aswad", "Maqam Ibrahim", "Multazam"],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Secara bahasa, kata \"Isra'\" memiliki arti ....",
+      "options": ["Naik ke atas langit", "Menerima wahyu", "Bertemu malaikat", "Perjalanan malam hari"],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "Sedangkan kata \"Mikraj\" memiliki arti ....",
+      "options": ["Naik ke atas", "Turun ke bumi", "Berjalan cepat", "Perjalanan suci"],
+      "answer": 0
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "Peristiwa Isra' adalah perjalanan Nabi Muhammad saw. dari ....",
+      "options": ["Makkah ke Madinah", "Masjidil Haram ke Masjidil Aqsha", "Bumi ke Sidratul Muntaha", "Masjid Nabawi ke Masjidil Haram"],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "Masjidil Aqsha yang menjadi tempat tujuan Isra' Nabi Muhammad saw. terletak di wilayah ....",
+      "options": ["Mesir", "Suriah", "Palestina", "Yaman"],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "Dalam perjalanan agung Isra' dan Mikraj, Nabi Muhammad saw. ditemani oleh ....",
+      "options": ["Malaikat Mikail", "Sahabat Abu Bakar", "Malaikat Izrail", "Malaikat Jibril"],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "Kendaraan surga yang berlari sangat cepat bagai kilat yang digunakan Nabi Muhammad saw. saat Isra' Mikraj bernama ....",
+      "options": ["Buraq", "Unta merah", "Kuda perang", "Permadani"],
+      "answer": 0
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "question": "Batas tertinggi di langit ketujuh yang dicapai oleh Nabi Muhammad saw. pada peristiwa Mikraj disebut ....",
+      "options": ["Surga Firdaus", "Baitul Makmur", "Sidratul Muntaha", "Arsy"],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "Salah satu tujuan Allah Swt. memanggil Nabi Muhammad saw. dalam Isra' Mikraj adalah untuk menghibur hati beliau yang sedang bersedih. Tahun kesedihan ini dikenal dengan istilah ....",
+      "options": ["Amul Fath", "Amul Fil", "Amul Huzni", "Amul Jama'ah"],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "Siapakah tokoh penting yang wafat pada masa \"Tahun Kesedihan\" tersebut?",
+      "options": ["Hamzah dan Umar bin Khattab", "Abu Thalib dan Siti Khadijah", "Abdul Muthalib dan Aminah", "Abu Bakar dan Utsman bin Affan"],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "Perintah ibadah wajib apakah yang diterima langsung oleh Nabi Muhammad saw. dari Allah Swt. saat peristiwa Mikraj?",
+      "options": ["Puasa Ramadhan", "Membayar Zakat", "Menunaikan Haji", "Shalat 5 Waktu"],
+      "answer": 3
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "Sikap yang bisa kita teladani dari Nabi Muhammad saw. ketika tertimpa musibah dan kesedihan adalah ....",
+      "options": ["Mengeluh kepada semua orang", "Putus asa dan berhenti berdakwah", "Sabar karena Allah akan memberi jalan keluar", "Membalas dendam kepada musuh"],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "Ibadah shalat 5 waktu memiliki kedudukan yang sangat istimewa dalam Islam karena ....",
+      "options": ["Boleh dikerjakan kapan saja", "Perintahnya diturunkan langsung tanpa perantara", "Hanya wajib bagi orang dewasa", "Tidak membutuhkan wudhu"],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "Apa hikmah utama dari mempelajari peristiwa Isra' Mikraj bagi keimanan kita?",
+      "options": ["Meningkatkan keyakinan pada kekuasaan Allah Swt.", "Mengetahui nama-nama langit", "Menjadi ingin pergi ke luar angkasa", "Mengetahui rute perjalanan dari Makkah ke Palestina"],
+      "answer": 0
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "Masjidil Haram yang menjadi tempat dimulainya peristiwa Isra' terletak di kota ....",
+      "options": ["Madinah", "Thaif", "Makkah", "Jeddah"],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "Perjalanan Nabi Muhammad saw. pada malam hari menempuh jarak yang sangat jauh namun terjadi dalam waktu yang sangat singkat. Hal ini membuktikan bahwa ....",
+      "options": ["Nabi Muhammad bisa terbang", "Buraq lebih cepat dari pesawat", "Malaikat Jibril sangat kuat", "Allah Maha Kuasa atas segala sesuatu"],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "question": "Utsman bin Affan r.a. mendapat gelar kehormatan \"Dzun Nurain\". Gelar tersebut memiliki arti ....",
+      "options": ["Singa Padang Pasir", "Pemilik Dua Cahaya", "Pedang Allah yang Terhunus", "Pintu Ilmu Pengetahuan"],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "question": "Mengapa Utsman bin Affan r.a. diberi gelar Dzun Nurain?",
+      "options": ["Karena wajahnya selalu bersinar", "Karena beliau memiliki dua pedang bercahaya", "Karena beliau menikahi dua putri Nabi Muhammad saw.", "Karena beliau membangun dua masjid besar"],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "question": "Di bawah ini yang merupakan salah satu sifat terpuji dari Khalifah Utsman bin Affan r.a. adalah ....",
+      "options": ["Lembut dan pemalu", "Keras dan tegas", "Sombong karena kaya raya", "Pemarah jika diganggu"],
+      "answer": 0
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "question": "Saat umat Islam kesulitan mendapat air bersih di Madinah, Utsman bin Affan r.a. membeli sebuah sumur untuk disumbangkan. Sumur tersebut bernama ....",
+      "options": ["Sumur Zamzam", "Sumur Raumah", "Sumur Badar", "Sumur Uhud"],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "question": "Utsman bin Affan r.a. membeli sumur tersebut dengan harga yang sangat mahal dari seorang ....",
+      "options": ["Saudagar kaya dari Makkah", "Pemimpin suku Khazraj", "Orang Yahudi", "Raja Romawi"],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "question": "Saat menjelang Perang Tabuk, Utsman bin Affan mendermakan ratusan unta dan ribuan dinar emas untuk membiayai pasukan Islam. Hal ini menunjukkan bahwa beliau adalah orang yang sangat ....",
+      "options": ["Ingin dipuji", "Pemberani di medan perang", "Dermawan", "Hemat dan pelit"],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "question": "Utsman bin Affan r.a. adalah sahabat yang memimpin umat Islam sebagai Khulafaur Rasyidin yang ke- ....",
+      "options": ["Pertama", "Kedua", "Ketiga", "Keempat"],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "question": "Khalifah Utsman bin Affan diangkat menjadi pemimpin umat Islam melalui sebuah proses musyawarah oleh dewan formatur yang dibentuk oleh ....",
+      "options": ["Abu Bakar Ash-Shiddiq", "Umar bin Khattab", "Ali bin Abi Thalib", "Nabi Muhammad saw."],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "question": "Jasa terbesar Khalifah Utsman bin Affan bagi umat Islam yang manfaatnya kita rasakan hingga hari ini adalah ....",
+      "options": ["Membangun Ka'bah", "Membuat kalender Hijriah", "Membukukan dan menyatukan bacaan Al-Qur'an", "Menaklukkan negara Mesir"],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "question": "Pada masa pemerintahan Utsman bin Affan, wilayah Islam meluas hingga ke berbagai negara. Hal ini memunculkan suatu masalah baru bagi umat Islam, yaitu perbedaan dalam hal ....",
+      "options": ["Cara melaksanakan shalat", "Menentukan arah kiblat", "Membayar zakat fitrah", "Cara membaca Al-Qur'an"],
+      "answer": 3
+    },
+    {
+      "id": 41,
+      "type": "multiple-choice",
+      "question": "Untuk menyelesaikan masalah tersebut, Khalifah Utsman membentuk panitia pembukuan Al-Qur'an yang diketuai oleh sahabat bernama ....",
+      "options": ["Zaid bin Tsabit", "Abu Hurairah", "Khalid bin Walid", "Bilal bin Rabah"],
+      "answer": 0
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "question": "Mushaf Al-Qur'an standar yang berhasil disalin dan disebarkan ke berbagai wilayah Islam pada masa itu dikenal dengan nama ....",
+      "options": ["Mushaf Nabawi", "Mushaf Utsmani", "Mushaf Makkiyah", "Mushaf Madaniyah"],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "type": "multiple-choice",
+      "question": "Di akhir masa jabatannya, kekhalifahan Utsman bin Affan mulai goyah dan akhirnya runtuh. Hal ini diawali dengan munculnya ....",
+      "options": ["Penyakit menular yang parah", "Serangan dari tentara Romawi", "Fitnah besar dari orang-orang munafik (pemberontak)", "Bencana alam gempa bumi"],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "question": "Bagaimana sikap Khalifah Utsman bin Affan ketika rumahnya dikepung berhari-hari oleh kaum pemberontak?",
+      "options": ["Melarikan diri dari pintu belakang", "Memerintahkan pasukan untuk membunuh pemberontak", "Meminta bantuan raja dari negara lain", "Sabar dan melarang sahabat lain menumpahkan darah kaum muslimin"],
+      "answer": 3
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "question": "Khalifah Utsman bin Affan r.a. wafat terbunuh sebagai syahid yang mulia saat beliau sedang ....",
+      "options": ["Membaca Al-Qur'an di rumahnya", "Shalat di Masjid Nabawi", "Berperang di medan pertempuran", "Berpidato di depan kaum muslimin"],
+      "answer": 0
+    }
+  ]
+}

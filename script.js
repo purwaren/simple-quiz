@@ -39,17 +39,31 @@ async function init() {
 function renderLandingPage() {
     landingPage.classList.remove('hidden');
     quizList.innerHTML = '';
-    
+
+    const categories = {};
     allQuizzes.forEach(quiz => {
-        const card = document.createElement('div');
-        card.className = 'quiz-card bg-white p-8 rounded-3xl shadow-lg text-left cursor-pointer hover:shadow-xl transition border-2 border-transparent hover:border-blue-400 group';
-        card.innerHTML = `
-            <div class="text-5xl mb-4 group-hover:scale-110 transition duration-300">${quiz.icon}</div>
-            <h3 class="text-2xl font-fredoka text-slate-800 mb-2">${quiz.title}</h3>
-            <p class="text-slate-500 text-sm leading-relaxed">${quiz.description}</p>
-        `;
-        card.onclick = () => selectQuiz(quiz);
-        quizList.appendChild(card);
+        const cat = quiz.category || 'Lainnya';
+        if (!categories[cat]) categories[cat] = [];
+        categories[cat].push(quiz);
+    });
+
+    Object.entries(categories).forEach(([catName, quizzes], catIdx) => {
+        const heading = document.createElement('div');
+        heading.className = `col-span-full text-left text-xl font-fredoka text-slate-400 uppercase tracking-widest pb-2 border-b border-slate-100${catIdx > 0 ? ' mt-6' : ''}`;
+        heading.innerText = catName;
+        quizList.appendChild(heading);
+
+        quizzes.forEach(quiz => {
+            const card = document.createElement('div');
+            card.className = 'quiz-card bg-white p-8 rounded-3xl shadow-lg text-left cursor-pointer hover:shadow-xl transition border-2 border-transparent hover:border-blue-400 group';
+            card.innerHTML = `
+                <div class="text-5xl mb-4 group-hover:scale-110 transition duration-300">${quiz.icon}</div>
+                <h3 class="text-2xl font-fredoka text-slate-800 mb-2">${quiz.title}</h3>
+                <p class="text-slate-500 text-sm leading-relaxed">${quiz.description}</p>
+            `;
+            card.onclick = () => selectQuiz(quiz);
+            quizList.appendChild(card);
+        });
     });
 }
 
