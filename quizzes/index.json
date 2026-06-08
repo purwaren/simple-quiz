@@ -46,5 +46,13 @@
     "icon": "🦁",
     "file": "quizzes/english-unit56-kelas3.json",
     "category": "Sumatif Trial"
+  },
+  {
+    "id": "pancasila-sas-kelas3",
+    "title": "Sumatif Pancasila Kelas 3",
+    "description": "40 soal pilihan ganda — Keanekaragaman Budaya Indonesia di Pulau Jawa (Banten, Jakarta, Jawa Barat, Jawa Tengah, Yogyakarta, Jawa Timur) dan sikap menghargai keberagaman.",
+    "icon": "🇮🇩",
+    "file": "quizzes/pancasila-sas-kelas3.json",
+    "category": "Sumatif Trial"
   }
 ]
