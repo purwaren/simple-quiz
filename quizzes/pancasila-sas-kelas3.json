@@ -1,0 +1,285 @@
+{
+  "quiz_title": "Sumatif Pancasila Kelas 3",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Suku asli yang mendiami wilayah pedalaman Provinsi Banten dan sangat teguh menjaga kelestarian alam serta adat leluhurnya adalah Suku ....",
+      "options": ["Baduy", "Betawi", "Samin", "Madura"],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "Alat musik tradisional dari Banten yang terbuat dari bambu dan dimainkan dengan cara digoyangkan adalah ....",
+      "options": ["Gamelan", "Tanjidor", "Angklung Buhun", "Terompet Reog"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Kuliner khas dari daerah Banten yang menggunakan bahan dasar ikan bandeng yang dihilangkan durinya, diaduk dengan bumbu, lalu dimasukkan kembali ke dalam kulit ikan dan dibakar dinamakan ....",
+      "options": ["Kerak Telor", "Sate Bandeng", "Rawon", "Gudeg"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Rumah adat tradisional masyarakat Suku Baduy di Provinsi Banten yang dibangun mengikuti kontur tanah dinamakan ....",
+      "options": ["Joglo", "Sulah Nyanda", "Rumah Kebaya", "Kasepuhan"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Penduduk asli yang membentuk kebudayaan khas di daerah Khusus Ibukota Jakarta dikenal dengan nama Suku ....",
+      "options": ["Sunda", "Jawa", "Betawi", "Madura"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "Tari tradisional khas Betawi yang kelahirannya dipengaruhi oleh budaya Tionghoa dan sering ditampilkan untuk menyambut tamu kehormatan adalah ....",
+      "options": ["Tari Jaipong", "Tari Gambyong", "Tari Remo", "Tari Sirih Kuning"],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "Kesenian musik khas Betawi yang menggunakan alat musik tiup berbahan kuningan dan mendapat pengaruh dari kebudayaan Eropa dinamakan ....",
+      "options": ["Tehyan", "Tanjidor", "Calung", "Gamelan"],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Pakaian adat kebaya khas Betawi yang sering dikenakan oleh kaum wanita dengan warna-warna cerah dan dihiasi bordir disebut ....",
+      "options": ["Baju Pangsi", "Jawi Jangkep", "Kebaya Encim", "Surjan"],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Tari Jaipong merupakan tarian daerah yang memiliki gerakan lincah, dinamis, dan penuh semangat. Tarian ini berasal dari provinsi ....",
+      "options": ["Jawa Barat", "Jawa Tengah", "Jawa Timur", "Banten"],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Senjata tradisional masyarakat Sunda di Jawa Barat yang memiliki bentuk melengkung unik dan nilai sejarah yang tinggi dinamakan ....",
+      "options": ["Keris", "Golok", "Celurit", "Kujang"],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "Makanan tradisional khas Jawa Barat yang dibuat dari bahan dasar singkong yang difermentasikan menggunakan ragi sehingga bertekstur empuk dan manis dinamakan ....",
+      "options": ["Surabi", "Peuyeum", "Getuk", "Bakpia"],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "Rumah adat Kasepuhan yang merupakan wujud arsitektur keraton peninggalan sejarah kesultanan terletak di provinsi ....",
+      "options": ["DKI Jakarta", "Jawa Tengah", "Jawa Timur", "Jawa Barat"],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "Di samping Suku Jawa yang merupakan suku mayoritas, terdapat kelompok masyarakat adat di wilayah Blora (Jawa Tengah) yang dikenal dengan Suku ....",
+      "options": ["Baduy", "Samin", "Betawi", "Madura"],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "Tari tradisional Jawa Tengah yang dipentaskan dengan gerakan lemah gemulai, anggun, dan biasanya berfungsi sebagai tari penyambutan tamu atau ucapan syukur adalah ....",
+      "options": ["Tari Jaipong", "Tari Remo", "Tari Gambyong", "Tari Sirih Kuning"],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "Pakaian adat resmi pria khas Jawa Tengah yang terdiri dari beskap, kain jarik, blangkon, dan dilengkapi dengan keris di bagian belakang dinamakan ....",
+      "options": ["Baju Pangsi", "Jawi Jangkep", "Kebaya Encim", "Surjan"],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Makanan khas dari Kota Semarang (Jawa Tengah) yang berisi rebung, telur, atau daging ayam yang dibalut dengan kulit tepung tipis kemudian digoreng adalah ....",
+      "options": ["Lumpia", "Surabi", "Rawon", "Sate Bandeng"],
+      "answer": 0
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "Kuliner legendaris dari DI Yogyakarta yang terbuat dari buah nangka muda dan dimasak dalam waktu lama menggunakan santan serta gula jawa hingga berwarna cokelat manis adalah ....",
+      "options": ["Rawon", "Gudeg", "Getuk", "Surabi"],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "Bangunan utama atau rumah adat yang berfungsi sebagai tempat menerima tamu di lingkungan Keraton Yogyakarta dinamakan ....",
+      "options": ["Bangsal Kencono", "Sulah Nyanda", "Kasepuhan", "Joglo Situbondo"],
+      "answer": 0
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "Pakaian adat atas pria khas Yogyakarta yang bermotif lurik (garis-garis lurus) atau bunga-bunga besar dinamakan baju ....",
+      "options": ["Kebaya", "Pangsi", "Surjan", "Pesa'an"],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "Salah satu tarian klasik keraton yang sangat sakral, dibawakan secara berkelompok oleh penari wanita di Yogyakarta adalah Tari ....",
+      "options": ["Rampak Bedug", "Bedhaya", "Remo", "Jaipong"],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "Selain Suku Jawa, salah satu suku besar yang mendiami wilayah pulau tersendiri dan pesisir utara Provinsi Jawa Timur adalah Suku ....",
+      "options": ["Madura", "Baduy", "Sunda", "Betawi"],
+      "answer": 0
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "question": "Tari Remo merupakan tarian yang mengisahkan perjuangan seorang pangeran dalam medan laga. Tari ini digunakan sebagai pembuka seni ludruk yang berasal dari provinsi ....",
+      "options": ["Banten", "Jawa Barat", "DI Yogyakarta", "Jawa Timur"],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "Senjata tradisional khas masyarakat Madura yang berbentuk melengkung menyerupai bulan sabit dan sangat tajam dinamakan ....",
+      "options": ["Kujang", "Celurit", "Keris", "Golok"],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "Makanan tradisional khas Jawa Timur berupa sup daging berkuah hitam pekat yang warna hitamnya dihasilkan dari buah kluwek disebut ....",
+      "options": ["Gudeg", "Rawon", "Kerak Telor", "Peuyeum"],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "Pakaian adat tradisional Madura yang identik dengan baju luar berwarna hitam dipadu kaus bergaris horizontal merah-putih dinamakan Baju ....",
+      "options": ["Pesa'an", "Pangsi", "Surjan", "Jawi Jangkep"],
+      "answer": 0
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "Perhatikan kombinasi alat musik tradisional dan daerah asal di bawah ini! Pasangan yang benar adalah ....",
+      "options": ["Angklung Buhun berasal dari Jawa Tengah", "Tanjidor berasal dari DKI Jakarta", "Gamelan berasal dari Banten saja", "Calung berasal dari Jawa Timur"],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "Keris merupakan senjata tradisional yang memiliki nilai estetika dan spiritual tinggi yang tersebar di wilayah ....",
+      "options": ["Jawa Tengah dan DI Yogyakarta", "Banten dan Jawa Barat", "Jawa Timur dan Banten", "DKI Jakarta dan Jawa Barat"],
+      "answer": 0
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "Rumah adat tradisional di Pulau Jawa yang memiliki ciri khas bentuk atap menyerupai gunung/trapezium adalah Rumah ....",
+      "options": ["Sulah Nyanda", "Kasepuhan", "Joglo", "Gadang"],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "Kerak Telor dan Lumpia merupakan dua camilan tradisional yang lezat. Kedua makanan tersebut berturut-turut berasal dari daerah ....",
+      "options": ["Banten dan Jawa Timur", "DKI Jakarta dan Jawa Tengah", "Jawa Barat dan DI Yogyakarta", "Jawa Timur dan Banten"],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "Semboyan resmi negara Indonesia yang ditulis pada pita yang dicengkeram oleh burung Garuda Pancasila untuk menyatukan perbedaan budaya adalah ....",
+      "options": ["Tut Wuri Handayani", "Bersatu Kita Teguh, Bercerai Kita Runtuh", "Bhinneka Tunggal Ika", "Pancasila Jaya"],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "question": "Di kelas 3 ada seorang murid baru pindahan dari Solo. Ketika berbicara di depan kelas, ia menggunakan logat bahasa Jawa yang kental. Sikap kita yang benar adalah ....",
+      "options": ["Menertawakan logat bicaranya bersama teman-teman", "Meniru gaya bicaranya dengan maksud mengejek", "Meminta guru agar melarangnya berbicara", "Mendengarkan dengan baik dan tetap berteman dengannya tanpa membedakan"],
+      "answer": 3
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "question": "Made berasal dari Bali dan Asep berasal dari Jawa Barat. Walaupun mereka berbeda suku bangsa dan daerah asal, dalam kehidupan sehari-hari mereka harus tetap ....",
+      "options": ["Bersaing menjadi yang paling hebat", "Hidup rukun dan saling menyayangi", "Saling menjauh agar tidak bertengkar", "Membanggakan daerahnya masing-masing"],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "question": "Saat memperingati Hari Sumpah Pemuda, seluruh siswa diminta mengenakan pakaian adat. Sikap menghargai yang tepat ketika melihat teman memakai pakaian adat yang berbeda adalah ....",
+      "options": ["Menyebut bahwa pakaian adat daerah kita adalah yang paling bagus", "Memuji keindahan dan keunikan pakaian adat yang dikenakan teman", "Menjauhi teman karena pakaian adatnya terlihat aneh bagi kita", "Menyuruh teman tersebut mengganti pakaiannya agar seragam"],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "question": "Lani membawa kue pasung khas Banten ke sekolah lalu menawarkannya kepadamu. Sikap yang sopan untuk menghargai pemberian Lani adalah ....",
+      "options": ["Menolaknya langsung karena bentuk kuenya asing bagi kita", "Menerimanya lalu membuangnya saat Lani tidak melihat", "Mencicipinya dengan senang hati dan mengucapkan terima kasih", "Menyuruh Lani membawa makanan modern saja lain kali"],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "question": "Ketika sekolah mengadakan kegiatan menonton bersama pertunjukan seni Tari Jaipong dari Jawa Barat, sikap yang menunjukkan ketertiban adalah ....",
+      "options": ["Membuat kegaduhan dan mengobrol dengan teman di sebelah", "Menyaksikan dengan tenang serta memberikan tepuk tangan yang meriah di akhir penampilan", "Berdiri di depan panggung sehingga menghalangi penonton lain", "Mengejek gerakan penari yang dianggap tidak biasa"],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "question": "Manfaat utama jika seluruh warga sekolah menerapkan sikap saling menghormati keberagaman suku dan budaya di lingkungan sekolah adalah ....",
+      "options": ["Timbulnya perselisihan antar-murid", "Suasana belajar di kelas menjadi tidak kondusif", "Terciptanya persatuan, kerukunan, dan rasa kedamaian", "Jumlah teman bermain di sekolah menjadi semakin berkurang"],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "question": "Dayu melihat teman sekelasnya kesulitan membawa tumpukan buku, padahal teman tersebut berbeda suku dengan Dayu. Tindakan yang mencerminkan nilai Pancasila adalah ....",
+      "options": ["Segera membantu membawakan buku dengan tulus dan ikhlas", "Pura-pura sibuk membaca buku agar tidak perlu menolong", "Membiarkannya karena bukan teman satu daerah asal", "Menertawakan kelalaian teman tersebut"],
+      "answer": 0
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "question": "Contoh tindakan nyata seorang siswa yang mencerminkan rasa bangga terhadap produk budaya lokal Indonesia adalah ....",
+      "options": ["Hanya mau memakai pakaian bermerek luar negeri yang mahal", "Merasa malu saat diminta mengenakan seragam batik sekolah", "Mengenakan pakaian batik atau baju adat dengan rasa percaya diri dan senang", "Menolak mengonsumsi jajanan pasar tradisional"],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "question": "Arti sejati dari kalimat semboyan \"Bhinneka Tunggal Ika\" yang tertuang dalam kitab Sutasoma adalah ....",
+      "options": ["Berbeda-beda tetapi tetap satu jua", "Bersama-sama menuju satu tujuan yang sama", "Beragam suku bangsa pasti akan berpisah", "Berbeda suku tetapi satu bahasa daerah"],
+      "answer": 0
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "question": "Apabila seluruh generasi muda Indonesia senantiasa menghormati, mempelajari, dan mencintai kebudayaan daerah lain, maka kebudayaan bangsa Indonesia akan ....",
+      "options": ["Mengalami kepunahan", "Terlupakan oleh zaman", "Tetap lestari dan terjaga dengan baik", "Diambil oleh bangsa asing"],
+      "answer": 2
+    }
+  ]
+}
