@@ -1,0 +1,365 @@
+{
+  "quiz_title": "Latihan Unit 5 & 6 English Kelas 3",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Which animal has got black and white stripes?",
+      "options": ["Leopard", "Zebra", "Rhino", "Monkey"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "Where do sharks and whales live?",
+      "options": ["Desert", "Grassland", "Jungle", "Ocean"],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "A parrot has got beautiful ________ to help it fly.",
+      "options": ["fur", "wings", "spots", "stripes"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "________ they fly? No, they can't.",
+      "options": ["Do", "Are", "Can", "Have"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Has a monkey got a long tail? Yes, it ________.",
+      "options": ["has", "is", "have", "does"],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "Pandas eat bamboo. They live in the ________.",
+      "options": ["desert", "jungle", "ocean", "grassland"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "I am very hot and dry. I am the ________.",
+      "options": ["river", "ocean", "desert", "beach"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "________ we watch a film about animals?",
+      "options": ["Can", "Are", "Shall", "Do"],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Penguins are birds, but they ________ fly.",
+      "options": ["can", "can't", "are", "aren't"],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "A leopard has got dark ________ on its fur.",
+      "options": ["stripes", "wings", "feathers", "spots"],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "Which animal has got feathers?",
+      "options": ["Snake", "Lion", "Penguin", "Tiger"],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "________ they got fur? Yes, they have.",
+      "options": ["Do", "Are", "Have", "Can"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "Snakes haven't got ________.",
+      "options": ["a mouth", "a tail", "eyes", "legs"],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "Shall we go to the zoo? Yes, that sounds ________!",
+      "options": ["great", "bad", "sure", "no"],
+      "answer": 0
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "A rhino is very big and lives in the ________.",
+      "options": ["ocean", "sky", "grassland", "river"],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "A tiger has got orange and black ________.",
+      "options": ["spots", "wings", "stripes", "feathers"],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "Have pandas got black and white fur? Yes, they ________.",
+      "options": ["do", "are", "have", "can"],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "Can a snake climb a tree? Yes, it ________.",
+      "options": ["can", "has", "is", "does"],
+      "answer": 0
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "We want to see monkeys. Shall we go to the ________?",
+      "options": ["ocean", "desert", "jungle", "beach"],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "They are birds with colorful feathers. They are ________.",
+      "options": ["penguins", "parrots", "pandas", "rhinos"],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "question": "What's the weather ________ today? It's sunny.",
+      "options": ["look", "like", "love", "doing"],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "question": "Look! He ________ a bike in the park.",
+      "options": ["is riding", "riding", "ride", "rides"],
+      "answer": 0
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "question": "They are sitting on the grass eating sandwiches. They are having a ________.",
+      "options": ["sailing", "drawing", "picnic", "reading"],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "question": "Is she skateboarding? No, she ________.",
+      "options": ["is", "isn't", "doesn't", "aren't"],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "question": "We need a boat and some wind to go ________.",
+      "options": ["rock-climbing", "sailing", "hiking", "cycling"],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "question": "What are you doing? I ________ a map.",
+      "options": ["reading", "is reading", "am reading", "read"],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "question": "Let's go to the ________ to swim and play in the sand.",
+      "options": ["forest", "mountain", "beach", "countryside"],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "question": "It is very cold and white outside. It is ________.",
+      "options": ["sunny", "snowy", "windy", "hot"],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "question": "She's got a pencil and paper. She's ________.",
+      "options": ["drawing", "fishing", "sailing", "hiking"],
+      "answer": 0
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "question": "The boys are ________ a den in the woods.",
+      "options": ["reading", "building", "riding", "doing"],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "question": "What's he doing? He's ________ a fish in the river.",
+      "options": ["catching", "making", "riding", "climbing"],
+      "answer": 0
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "question": "Is it windy today? ________, it is. Look at the trees moving!",
+      "options": ["No", "Yes", "Not", "Isn't"],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "question": "They are walking on a nature ________.",
+      "options": ["trail", "map", "lake", "island"],
+      "answer": 0
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "question": "You can climb very high on a ________.",
+      "options": ["lake", "river", "mountain", "beach"],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "question": "________ she kayaking on the lake? Yes, she is.",
+      "options": ["Does", "Has", "Is", "Can"],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "question": "We are surrounded by water. We are on an ________.",
+      "options": ["island", "river", "forest", "mountain"],
+      "answer": 0
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "question": "What ________ they doing? They are rock-climbing.",
+      "options": ["is", "am", "are", "do"],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "question": "Grab your helmet! We are going ________.",
+      "options": ["fishing", "cycling", "sailing", "swimming"],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "question": "It's beautiful in the ________ with all the green trees and farms.",
+      "options": ["city", "countryside", "ocean", "desert"],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "question": "He's wearing a warm coat and boots because it is ________.",
+      "options": ["snowy", "sunny", "hot", "warm"],
+      "answer": 0
+    },
+    {
+      "id": 41,
+      "type": "drag-drop",
+      "question": "Fill in the blank with the correct word from the box.",
+      "sentence": "A tiger has got beautiful black and orange _______.",
+      "options": ["can't", "jungle", "kayaking", "weather", "feathers", "stripes", "reading", "building", "sunny", "Have"],
+      "answer": "stripes"
+    },
+    {
+      "id": 42,
+      "type": "drag-drop",
+      "question": "Fill in the blank with the correct word from the box.",
+      "sentence": "Parrots and penguins are birds, so they both have got _______.",
+      "options": ["can't", "jungle", "kayaking", "weather", "feathers", "stripes", "reading", "building", "sunny", "Have"],
+      "answer": "feathers"
+    },
+    {
+      "id": 43,
+      "type": "drag-drop",
+      "question": "Fill in the blank with the correct word from the box.",
+      "sentence": "_______ they got long tails? Yes, they have.",
+      "options": ["can't", "jungle", "kayaking", "weather", "feathers", "stripes", "reading", "building", "sunny", "Have"],
+      "answer": "Have"
+    },
+    {
+      "id": 44,
+      "type": "drag-drop",
+      "question": "Fill in the blank with the correct word from the box.",
+      "sentence": "Monkeys love to swing from trees in the _______.",
+      "options": ["can't", "jungle", "kayaking", "weather", "feathers", "stripes", "reading", "building", "sunny", "Have"],
+      "answer": "jungle"
+    },
+    {
+      "id": 45,
+      "type": "drag-drop",
+      "question": "Fill in the blank with the correct word from the box.",
+      "sentence": "A snake _______ walk because it hasn't got legs.",
+      "options": ["can't", "jungle", "kayaking", "weather", "feathers", "stripes", "reading", "building", "sunny", "Have"],
+      "answer": "can't"
+    },
+    {
+      "id": 46,
+      "type": "drag-drop",
+      "question": "Fill in the blank with the correct word from the box.",
+      "sentence": "What's the _______ like today?",
+      "options": ["can't", "jungle", "kayaking", "weather", "feathers", "stripes", "reading", "building", "sunny", "Have"],
+      "answer": "weather"
+    },
+    {
+      "id": 47,
+      "type": "drag-drop",
+      "question": "Fill in the blank with the correct word from the box.",
+      "sentence": "It is very hot and _______ outside. Let's go to the beach!",
+      "options": ["can't", "jungle", "kayaking", "weather", "feathers", "stripes", "reading", "building", "sunny", "Have"],
+      "answer": "sunny"
+    },
+    {
+      "id": 48,
+      "type": "drag-drop",
+      "question": "Fill in the blank with the correct word from the box.",
+      "sentence": "She is in a small boat on the river. She is _______.",
+      "options": ["can't", "jungle", "kayaking", "weather", "feathers", "stripes", "reading", "building", "sunny", "Have"],
+      "answer": "kayaking"
+    },
+    {
+      "id": 49,
+      "type": "drag-drop",
+      "question": "Fill in the blank with the correct word from the box.",
+      "sentence": "The children are _______ a secret den in the forest.",
+      "options": ["can't", "jungle", "kayaking", "weather", "feathers", "stripes", "reading", "building", "sunny", "Have"],
+      "answer": "building"
+    },
+    {
+      "id": 50,
+      "type": "drag-drop",
+      "question": "Fill in the blank with the correct word from the box.",
+      "sentence": "We are lost! Are you _______ the map?",
+      "options": ["can't", "jungle", "kayaking", "weather", "feathers", "stripes", "reading", "building", "sunny", "Have"],
+      "answer": "reading"
+    }
+  ]
+}

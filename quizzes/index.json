@@ -38,5 +38,13 @@
     "icon": "🏃",
     "file": "quizzes/pjok-sas-kelas3.json",
     "category": "Sumatif Trial"
+  },
+  {
+    "id": "english-unit56-kelas3",
+    "title": "Latihan Unit 5 & 6 English Kelas 3",
+    "description": "50 questions — Unit 5: Let's Save Our Animals! & Unit 6: Come on an Adventure! Includes multiple choice and fill-in-the-blank.",
+    "icon": "🦁",
+    "file": "quizzes/english-unit56-kelas3.json",
+    "category": "Sumatif Trial"
   }
 ]
