@@ -54,5 +54,13 @@
     "icon": "🇮🇩",
     "file": "quizzes/pancasila-sas-kelas3.json",
     "category": "Sumatif Trial"
+  },
+  {
+    "id": "sbdp-sas-kelas3",
+    "title": "Sumatif SBdP Kelas 3",
+    "description": "50 soal pilihan ganda — Seni Musik: jenis lagu (anak-anak, daerah, nasional) & unsur-unsurnya; Seni Tari Tradisional: Tari Saman, Kecak, Piring, Tor-Tor, Jaipong, dan Topeng.",
+    "icon": "🎭",
+    "file": "quizzes/sbdp-sas-kelas3.json",
+    "category": "Sumatif Trial"
   }
 ]
