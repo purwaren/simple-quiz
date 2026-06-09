@@ -1,302 +1,555 @@
-[
-  {
-    "type": "multiple-choice",
-    "question": "Rangkaian nada yang disusun sehingga menghasilkan bunyi yang indah dan enak didengar disebut...",
-    "options": ["Puisi", "Lagu", "Pantun", "Tari"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Lagu biasanya dinyanyikan dengan kata-kata atau syair yang memiliki makna tertentu yang disebut...",
-    "options": ["Nada", "Tempo", "Lirik", "Irama"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Berikut ini yang BUKAN merupakan tujuan dari sebuah lagu adalah...",
-    "options": ["Sebagai hiburan", "Menyampaikan pesan moral", "Membuat orang marah", "Mengungkapkan perasaan penciptanya"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Bunyi yang memiliki tinggi rendah tertentu dalam sebuah musik disebut...",
-    "options": ["Irama", "Tempo", "Nada", "Lirik"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Pola panjang pendeknya bunyi dalam lagu secara teratur disebut...",
-    "options": ["Irama", "Nada", "Tempo", "Ekspresi"],
-    "answer": 0
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Cepat atau lambatnya suatu lagu saat dinyanyikan disebut...",
-    "options": ["Lirik", "Tempo", "Nada", "Irama"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Lagu yang memiliki ciri lirik sederhana, mudah diingat, dan melodinya ceria adalah jenis lagu...",
-    "options": ["Nasional", "Daerah", "Anak-anak", "Dewasa"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Berikut ini yang merupakan contoh lagu anak-anak adalah...",
-    "options": ["Indonesia Raya", "Balonku", "Ampar-Ampar Pisang", "Garuda Pancasila"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Lagu yang menggunakan bahasa daerah setempat dan menggambarkan budaya lokal disebut lagu...",
-    "options": ["Nasional", "Anak-anak", "Wajib", "Daerah"],
-    "answer": 3
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Lagu Ampar-Ampar Pisang berasal dari daerah...",
-    "options": ["Jawa Barat", "Kalimantan Selatan", "Papua", "Maluku"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Lagu Yamko Rambe Yamko adalah lagu daerah yang berasal dari...",
-    "options": ["Papua", "Maluku", "Jawa Tengah", "Sumatra Barat"],
-    "answer": 0
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Manuk Dadali merupakan salah satu lagu daerah yang berasal dari...",
-    "options": ["Jawa Tengah", "Jawa Timur", "Jawa Barat", "DKI Jakarta"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Lagu Gundul-Gundul Pacul berasal dari daerah...",
-    "options": ["Jawa Barat", "Jawa Tengah", "Jawa Timur", "Bali"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Lagu daerah yang berasal dari provinsi Maluku adalah...",
-    "options": ["Rasa Sayange", "Manuk Dadali", "Ampar-Ampar Pisang", "Yamko Rambe Yamko"],
-    "answer": 0
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Lagu yang menggambarkan semangat kebangsaan dan menumbuhkan rasa cinta tanah air disebut lagu...",
-    "options": ["Daerah", "Nasional", "Anak-anak", "Pop"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Berikut ini yang merupakan contoh lagu nasional adalah...",
-    "options": ["Rasa Sayange", "Balonku", "Garuda Pancasila", "Gundul-Gundul Pacul"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Menyanyikan lagu dengan intonasi yang benar berarti kita bernyanyi dengan... yang tepat.",
-    "options": ["Nada", "Lirik", "Tempo", "Ekspresi"],
-    "answer": 0
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Pengucapan lirik yang jelas saat kita bernyanyi disebut juga dengan istilah...",
-    "options": ["Intonasi", "Artikulasi", "Tempo", "Penghayatan"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Ekspresi jiwa manusia yang diungkapkan melalui gerakan tubuh yang indah dan ritmis disebut seni...",
-    "options": ["Musik", "Rupa", "Tari", "Teater"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Unsur utama dalam seni tari yang berupa perubahan posisi atau sikap tubuh penari disebut...",
-    "options": ["Musik", "Gerakan", "Ekspresi", "Properti"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Pengiring ritmis yang menyelaraskan gerakan tubuh penari dalam seni tari adalah...",
-    "options": ["Properti", "Kostum", "Musik/Lagu", "Tata rias"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Penjiwaan wajah dan mimik untuk menyampaikan perasaan dalam sebuah tarian disebut...",
-    "options": ["Gerakan", "Ekspresi", "Irama", "Tempo"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Tarian yang dipentaskan sebagai sarana ritual adat atau keagamaan memiliki fungsi sebagai sarana...",
-    "options": ["Hiburan", "Upacara", "Pendidikan", "Apresiasi Seni"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Penyampaian nilai moral dan sejarah kepada penonton melalui tarian menunjukkan fungsi tari sebagai sarana...",
-    "options": ["Hiburan", "Upacara", "Pendidikan", "Kegiatan Adat"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Tarian yang tumbuh dan berkembang di daerah tertentu secara turun-temurun serta memiliki aturan baku disebut tari...",
-    "options": ["Kreasi", "Tradisional", "Modern", "Balet"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Tarian yang dikembangkan dari gerak tradisional dengan kombinasi baru yang lebih bebas disebut tari...",
-    "options": ["Tradisional", "Daerah", "Kreasi/Modern", "Upacara"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Media pendukung tari yang berfungsi mempertegas karakter wajah penari sesuai tema tarian adalah...",
-    "options": ["Tata Rias", "Kostum", "Properti", "Musik"],
-    "answer": 0
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Pakaian atau busana khusus adat yang mencerminkan daerah asal tarian disebut...",
-    "options": ["Tata Rias", "Properti", "Kostum", "Panggung"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Alat bantu yang digunakan oleh penari saat pementasan, seperti piring, payung, atau topeng, disebut...",
-    "options": ["Kostum", "Tata Rias", "Properti", "Dekorasi"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Fungsi utama musik dan lagu dalam sebuah pementasan tarian adalah agar...",
-    "options": ["Penari terlihat cantik", "Gerakan penari kompak dan harmonis", "Panggung terlihat ramai", "Penari bisa beristirahat"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Tari Saman adalah tarian daerah yang berasal dari daerah...",
-    "options": ["Bali", "Sumatra Utara", "Aceh", "Jakarta"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Tari Kecak dan Tari Pendet merupakan dua tarian yang sangat terkenal dan berasal dari...",
-    "options": ["Sumatra Barat", "Jawa Barat", "Bali", "Jakarta"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Tari Piring berasal dari provinsi...",
-    "options": ["Sumatra Barat", "Sumatra Utara", "Aceh", "Jawa Barat"],
-    "answer": 0
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Tari Tor-Tor adalah tarian tradisional yang dilestarikan oleh masyarakat suku...",
-    "options": ["Jawa", "Batak", "Sunda", "Betawi"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Tari Jaipong adalah salah satu tarian tradisional yang berasal dari daerah...",
-    "options": ["Jakarta", "Jawa Timur", "Jawa Barat", "Jawa Tengah"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Tari Yapong dan Tari Topeng merupakan contoh tarian daerah yang berasal dari...",
-    "options": ["Jawa Barat", "Betawi (Jakarta)", "Bali", "Sumatra Barat"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Tari Tor-Tor berasal dari provinsi...",
-    "options": ["Sumatra Barat", "Sumatra Utara", "Sumatra Selatan", "Riau"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Ciri khas dari gerakan Tari Tor-Tor adalah...",
-    "options": ["Gerakannya sangat cepat dan melompat-lompat", "Menggunakan properti piring di tangan", "Gerakan sederhana, banyak menggunakan kombinasi tangan dan bahu", "Selalu dilakukan dengan cara duduk"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Musik tradisional khas Batak yang selalu mengiringi Tari Tor-Tor disebut...",
-    "options": ["Gamelan", "Angklung", "Sasando", "Gondang"],
-    "answer": 3
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Dalam menarikan Tari Tor-Tor, para penari diwajibkan memakai pakaian adat Batak berupa kain...",
-    "options": ["Batik", "Ulos", "Songket", "Tenun Ikat"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Gerakan tangan dan hentakan kaki dalam Tari Tor-Tor mengandung arti simbolis. Salah satunya adalah sebagai bentuk...",
-    "options": ["Mengusir roh jahat dari desa", "Menghormati orang lain (orang tua, leluhur)", "Menantang musuh untuk berperang", "Meminta hujan turun"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Selain menghormati leluhur, makna tarian Tari Tor-Tor adalah untuk mengungkapkan rasa syukur kepada...",
-    "options": ["Raja", "Kepala Suku", "Tuhan Yang Maha Esa", "Pahlawan"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Tari Tor-Tor juga memiliki makna fungsi sosial yaitu untuk menjalin kebersamaan serta mempererat...",
-    "options": ["Persaingan antarwarga", "Tali persaudaraan antarwarga masyarakat", "Jarak antar penari", "Hubungan dengan negara lain"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Saat bernyanyi, agar suara terdengar pas pada lirik tertentu, kita harus memperhatikan...",
-    "options": ["Artikulasi", "Nada yang tepat (intonasi)", "Ekspresi", "Kostum panggung"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Perhatikan contoh lagu berikut: Balonku, Hari Merdeka, dan Rasa Sayange. Secara berurutan, jenis lagu-lagu tersebut adalah...",
-    "options": ["Anak-anak, Nasional, Daerah", "Daerah, Anak-anak, Nasional", "Nasional, Daerah, Anak-anak", "Anak-anak, Daerah, Nasional"],
-    "answer": 0
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Jika sebuah tarian menggunakan properti berupa topeng, dan berasal dari Jakarta (Betawi), tarian tersebut dinamakan...",
-    "options": ["Tari Saman", "Tari Piring", "Tari Topeng", "Tari Jaipong"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Kekayaan ragam tari dan lagu di Indonesia harus kita...",
-    "options": ["Lupakan", "Lestarikan", "Tinggalkan", "Perdebatkan"],
-    "answer": 1
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Menyanyi dengan penghayatan berarti kita menyanyi dengan penuh...",
-    "options": ["Canda tawa", "Teriakan yang keras", "Perasaan dan ekspresi", "Ketakutan"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Tari Piring dinamakan demikian karena pada saat menari, para penari menggunakan media pendukung berupa...",
-    "options": ["Kostum mewah", "Tata Rias tebal", "Properti piring", "Lagu yang kencang"],
-    "answer": 2
-  },
-  {
-    "type": "multiple-choice",
-    "question": "Irama yang sesuai dengan ketukan merupakan salah satu cara agar kita bisa menyanyikan lagu dengan...",
-    "options": ["Buruk", "Baik", "Sedih", "Cepat"],
-    "answer": 1
-  }
-]
+{
+  "quiz_title": "Sumatif SBdP Kelas 3",
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "question": "Rangkaian nada yang disusun sehingga menghasilkan bunyi yang indah dan enak didengar disebut...",
+      "options": [
+        "Puisi",
+        "Lagu",
+        "Pantun",
+        "Tari"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Lagu biasanya dinyanyikan dengan kata-kata atau syair yang memiliki makna tertentu yang disebut...",
+      "options": [
+        "Nada",
+        "Tempo",
+        "Lirik",
+        "Irama"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Berikut ini yang BUKAN merupakan tujuan dari sebuah lagu adalah...",
+      "options": [
+        "Sebagai hiburan",
+        "Menyampaikan pesan moral",
+        "Membuat orang marah",
+        "Mengungkapkan perasaan penciptanya"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Bunyi yang memiliki tinggi rendah tertentu dalam sebuah musik disebut...",
+      "options": [
+        "Irama",
+        "Tempo",
+        "Nada",
+        "Lirik"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Pola panjang pendeknya bunyi dalam lagu secara teratur disebut...",
+      "options": [
+        "Irama",
+        "Nada",
+        "Tempo",
+        "Ekspresi"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Cepat atau lambatnya suatu lagu saat dinyanyikan disebut...",
+      "options": [
+        "Lirik",
+        "Tempo",
+        "Nada",
+        "Irama"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Lagu yang memiliki ciri lirik sederhana, mudah diingat, dan melodinya ceria adalah jenis lagu...",
+      "options": [
+        "Nasional",
+        "Daerah",
+        "Anak-anak",
+        "Dewasa"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Berikut ini yang merupakan contoh lagu anak-anak adalah...",
+      "options": [
+        "Indonesia Raya",
+        "Balonku",
+        "Ampar-Ampar Pisang",
+        "Garuda Pancasila"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Lagu yang menggunakan bahasa daerah setempat dan menggambarkan budaya lokal disebut lagu...",
+      "options": [
+        "Nasional",
+        "Anak-anak",
+        "Wajib",
+        "Daerah"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Lagu Ampar-Ampar Pisang berasal dari daerah...",
+      "options": [
+        "Jawa Barat",
+        "Kalimantan Selatan",
+        "Papua",
+        "Maluku"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Lagu Yamko Rambe Yamko adalah lagu daerah yang berasal dari...",
+      "options": [
+        "Papua",
+        "Maluku",
+        "Jawa Tengah",
+        "Sumatra Barat"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Manuk Dadali merupakan salah satu lagu daerah yang berasal dari...",
+      "options": [
+        "Jawa Tengah",
+        "Jawa Timur",
+        "Jawa Barat",
+        "DKI Jakarta"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Lagu Gundul-Gundul Pacul berasal dari daerah...",
+      "options": [
+        "Jawa Barat",
+        "Jawa Tengah",
+        "Jawa Timur",
+        "Bali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Lagu daerah yang berasal dari provinsi Maluku adalah...",
+      "options": [
+        "Rasa Sayange",
+        "Manuk Dadali",
+        "Ampar-Ampar Pisang",
+        "Yamko Rambe Yamko"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Lagu yang menggambarkan semangat kebangsaan dan menumbuhkan rasa cinta tanah air disebut lagu...",
+      "options": [
+        "Daerah",
+        "Nasional",
+        "Anak-anak",
+        "Pop"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Berikut ini yang merupakan contoh lagu nasional adalah...",
+      "options": [
+        "Rasa Sayange",
+        "Balonku",
+        "Garuda Pancasila",
+        "Gundul-Gundul Pacul"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Menyanyikan lagu dengan intonasi yang benar berarti kita bernyanyi dengan... yang tepat.",
+      "options": [
+        "Nada",
+        "Lirik",
+        "Tempo",
+        "Ekspresi"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Pengucapan lirik yang jelas saat kita bernyanyi disebut juga dengan istilah...",
+      "options": [
+        "Intonasi",
+        "Artikulasi",
+        "Tempo",
+        "Penghayatan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Ekspresi jiwa manusia yang diungkapkan melalui gerakan tubuh yang indah dan ritmis disebut seni...",
+      "options": [
+        "Musik",
+        "Rupa",
+        "Tari",
+        "Teater"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Unsur utama dalam seni tari yang berupa perubahan posisi atau sikap tubuh penari disebut...",
+      "options": [
+        "Musik",
+        "Gerakan",
+        "Ekspresi",
+        "Properti"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Pengiring ritmis yang menyelaraskan gerakan tubuh penari dalam seni tari adalah...",
+      "options": [
+        "Properti",
+        "Kostum",
+        "Musik/Lagu",
+        "Tata rias"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Penjiwaan wajah dan mimik untuk menyampaikan perasaan dalam sebuah tarian disebut...",
+      "options": [
+        "Gerakan",
+        "Ekspresi",
+        "Irama",
+        "Tempo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Tarian yang dipentaskan sebagai sarana ritual adat atau keagamaan memiliki fungsi sebagai sarana...",
+      "options": [
+        "Hiburan",
+        "Upacara",
+        "Pendidikan",
+        "Apresiasi Seni"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Penyampaian nilai moral dan sejarah kepada penonton melalui tarian menunjukkan fungsi tari sebagai sarana...",
+      "options": [
+        "Hiburan",
+        "Upacara",
+        "Pendidikan",
+        "Kegiatan Adat"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Tarian yang tumbuh dan berkembang di daerah tertentu secara turun-temurun serta memiliki aturan baku disebut tari...",
+      "options": [
+        "Kreasi",
+        "Tradisional",
+        "Modern",
+        "Balet"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Tarian yang dikembangkan dari gerak tradisional dengan kombinasi baru yang lebih bebas disebut tari...",
+      "options": [
+        "Tradisional",
+        "Daerah",
+        "Kreasi/Modern",
+        "Upacara"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Media pendukung tari yang berfungsi mempertegas karakter wajah penari sesuai tema tarian adalah...",
+      "options": [
+        "Tata Rias",
+        "Kostum",
+        "Properti",
+        "Musik"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Pakaian atau busana khusus adat yang mencerminkan daerah asal tarian disebut...",
+      "options": [
+        "Tata Rias",
+        "Properti",
+        "Kostum",
+        "Panggung"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Alat bantu yang digunakan oleh penari saat pementasan, seperti piring, payung, atau topeng, disebut...",
+      "options": [
+        "Kostum",
+        "Tata Rias",
+        "Properti",
+        "Dekorasi"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Fungsi utama musik dan lagu dalam sebuah pementasan tarian adalah agar...",
+      "options": [
+        "Penari terlihat cantik",
+        "Gerakan penari kompak dan harmonis",
+        "Panggung terlihat ramai",
+        "Penari bisa beristirahat"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Tari Saman adalah tarian daerah yang berasal dari daerah...",
+      "options": [
+        "Bali",
+        "Sumatra Utara",
+        "Aceh",
+        "Jakarta"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Tari Kecak dan Tari Pendet merupakan dua tarian yang sangat terkenal dan berasal dari...",
+      "options": [
+        "Sumatra Barat",
+        "Jawa Barat",
+        "Bali",
+        "Jakarta"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Tari Piring berasal dari provinsi...",
+      "options": [
+        "Sumatra Barat",
+        "Sumatra Utara",
+        "Aceh",
+        "Jawa Barat"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Tari Tor-Tor adalah tarian tradisional yang dilestarikan oleh masyarakat suku...",
+      "options": [
+        "Jawa",
+        "Batak",
+        "Sunda",
+        "Betawi"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Tari Jaipong adalah salah satu tarian tradisional yang berasal dari daerah...",
+      "options": [
+        "Jakarta",
+        "Jawa Timur",
+        "Jawa Barat",
+        "Jawa Tengah"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Tari Yapong dan Tari Topeng merupakan contoh tarian daerah yang berasal dari...",
+      "options": [
+        "Jawa Barat",
+        "Betawi (Jakarta)",
+        "Bali",
+        "Sumatra Barat"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Tari Tor-Tor berasal dari provinsi...",
+      "options": [
+        "Sumatra Barat",
+        "Sumatra Utara",
+        "Sumatra Selatan",
+        "Riau"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Ciri khas dari gerakan Tari Tor-Tor adalah...",
+      "options": [
+        "Gerakannya sangat cepat dan melompat-lompat",
+        "Menggunakan properti piring di tangan",
+        "Gerakan sederhana, banyak menggunakan kombinasi tangan dan bahu",
+        "Selalu dilakukan dengan cara duduk"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Musik tradisional khas Batak yang selalu mengiringi Tari Tor-Tor disebut...",
+      "options": [
+        "Gamelan",
+        "Angklung",
+        "Sasando",
+        "Gondang"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Dalam menarikan Tari Tor-Tor, para penari diwajibkan memakai pakaian adat Batak berupa kain...",
+      "options": [
+        "Batik",
+        "Ulos",
+        "Songket",
+        "Tenun Ikat"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Gerakan tangan dan hentakan kaki dalam Tari Tor-Tor mengandung arti simbolis. Salah satunya adalah sebagai bentuk...",
+      "options": [
+        "Mengusir roh jahat dari desa",
+        "Menghormati orang lain (orang tua, leluhur)",
+        "Menantang musuh untuk berperang",
+        "Meminta hujan turun"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Selain menghormati leluhur, makna tarian Tari Tor-Tor adalah untuk mengungkapkan rasa syukur kepada...",
+      "options": [
+        "Raja",
+        "Kepala Suku",
+        "Tuhan Yang Maha Esa",
+        "Pahlawan"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Tari Tor-Tor juga memiliki makna fungsi sosial yaitu untuk menjalin kebersamaan serta mempererat...",
+      "options": [
+        "Persaingan antarwarga",
+        "Tali persaudaraan antarwarga masyarakat",
+        "Jarak antar penari",
+        "Hubungan dengan negara lain"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Saat bernyanyi, agar suara terdengar pas pada lirik tertentu, kita harus memperhatikan...",
+      "options": [
+        "Artikulasi",
+        "Nada yang tepat (intonasi)",
+        "Ekspresi",
+        "Kostum panggung"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Perhatikan contoh lagu berikut: Balonku, Hari Merdeka, dan Rasa Sayange. Secara berurutan, jenis lagu-lagu tersebut adalah...",
+      "options": [
+        "Anak-anak, Nasional, Daerah",
+        "Daerah, Anak-anak, Nasional",
+        "Nasional, Daerah, Anak-anak",
+        "Anak-anak, Daerah, Nasional"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Jika sebuah tarian menggunakan properti berupa topeng, dan berasal dari Jakarta (Betawi), tarian tersebut dinamakan...",
+      "options": [
+        "Tari Saman",
+        "Tari Piring",
+        "Tari Topeng",
+        "Tari Jaipong"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Kekayaan ragam tari dan lagu di Indonesia harus kita...",
+      "options": [
+        "Lupakan",
+        "Lestarikan",
+        "Tinggalkan",
+        "Perdebatkan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Menyanyi dengan penghayatan berarti kita menyanyi dengan penuh...",
+      "options": [
+        "Canda tawa",
+        "Teriakan yang keras",
+        "Perasaan dan ekspresi",
+        "Ketakutan"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Tari Piring dinamakan demikian karena pada saat menari, para penari menggunakan media pendukung berupa...",
+      "options": [
+        "Kostum mewah",
+        "Tata Rias tebal",
+        "Properti piring",
+        "Lagu yang kencang"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Irama yang sesuai dengan ketukan merupakan salah satu cara agar kita bisa menyanyikan lagu dengan...",
+      "options": [
+        "Buruk",
+        "Baik",
+        "Sedih",
+        "Cepat"
+      ],
+      "answer": 1
+    }
+  ]
+}
